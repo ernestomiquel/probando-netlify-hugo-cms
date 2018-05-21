@@ -1,84 +1,81 @@
 ---
 title: Material de apoyo
 image: /img/photogrid.jpg
-heading: Tenemos ELA Uruguay
-description: Tenemos ELA Uruguay es
-intro:
-  blurbs:
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: Tenemos ELA Uruguay
-  description: "Es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. \nLa misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. \nPara ello los objetivos y actividades incluyen:\n\n-\tBrindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.\n-\tAcompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.\n-\tArticular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.  \n-\tGenerar y difundir conocimiento sobre la ELA en la comunidad.\n-\tPromover y colaborar con la investigación local e internacional en ELA.  \nLa Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones. \n (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15 \n"
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+values:
+  - heading: Participación en el CELAU
+    imageUrl: /img/logo_celau.jpg
+    text: >+
+      La Esclerosis Lateral Amiotrófica (ELA) es una enfermedad
+      neurodegenerativa, crónica, progresiva y compleja, que requiere un
+      abordaje asistencial interdisciplinario e integral. La primer necesidad
+      percibida desde la organización TenemosELA Uruguay, fue la atención escasa
+      y fragmentada del sistema de salud actual en Uruguay, la ausencia de este
+      tipo de abordaje y la inexistencia de un centro de referencia para
+      pacientes, familiares y personal sanitario que lo tuviera en cuenta.
+
+      A partir de la demanda de asistencia integral percibida y en conjunto con
+      neurólogos del Instituto de Neurología del Hospital de Clínicas, en el año
+      2014, comenzamos a desarrollar el primer programa interdisciplinario de
+      nivel Nacional, integrando profesionales de diferentes áreas con el fin de
+      promover la asistencia continua desde el diagnóstico contemplando la
+      trayectoria evolutiva con una visión integral, que asegure la calidad,
+      accesibilidad y equidad de los cuidados. El programa comenzó a ejecutarse
+      en el espacio de investigación, docencia y asistencia dirigido a
+      enfermedades neuromusculares en el Hospital Universitario.
+
+      En este espacio, recientemente denominado CELAU se brinda asesoramiento e
+      información sobre la enfermedad desde una mirada integral con asistencia
+      calificada y compasión humana. El equipo realiza la evaluación, y sugiere
+      un plan de tratamientos y cuidados personalizados con el objetivo de
+      lograr extender el período de autonomía, prevenir posibles complicaciones,
+      adaptar el proyecto de vida y empoderarse en las toma de decisiones. La
+      implementación del plan deberá contemplar las preferencias y necesidades
+      del usuario y su familia, y articularse fundamentalmente con los
+      profesionales y técnicos del centro de asistencia al que pertenece el
+      afectado.
+
+      El proceso asistencial que se pretende a partir de esta articulación, debe
+      incluir el adecuado control sintomático, entrenamiento en métodos
+      alternativos-aumentativos de la comunicación, apoyo psico-social y
+      mantenimiento funcional. Debe monitorearse en forma continua el bienestar
+      emocional de la persona que padece la enfermedad y su familia.
+
+      En CELAU se integra la investigación en conjunto con Facultad de
+      Medicina,Departamento de Histología y Embriología, Laboratorio de
+      Neurobiología Celular y Molecular. También se practica la docencia como
+      formación permanente y trabajamos con el objetivo de que el CELAU se
+      configure y reconozca como un centro de referencia a Nivel Nacional.
+
+
+      http://www.institutodeneurologia.edu.uy/sitio/
+
+      http://www.histoemb.fmed.edu.uy/
+
+      http://www.hc.edu.uy/
+
+  - heading: ''
+    imageUrl: /img/equipo interdisciplinario.jpg
+    text: ''
+  - heading: Prueba video youtube
+    imageUrl: /img/about-sustainable-farming.jpg
+    text: |
+      Acá vengo a poner cosas
+
+      {{< youtube -M6wfZdA4OY >}}
+
+      Y no se que mas poner
+  - heading: Direct sourcing
+    imageUrl: /img/about-direct-sourcing.jpg
+    text: >
+      We want to truly empower the communities that bring amazing coffee to you.
+      That’s why we reinvest 20% of our profits into farms, local businesses and
+      schools everywhere our coffee is grown. You can see the communities grow
+      and learn more about coffee farming on our blog.
+  - heading: Reinvest profits
+    imageUrl: /img/about-reinvest-profits.jpg
+    text: >
+      We want to truly empower the communities that bring amazing coffee to you.
+      That’s why we reinvest 20% of our profits into farms, local businesses and
+      schools everywhere our coffee is grown. You can see the communities grow
+      and learn more about coffee farming on our blog.
 ---
