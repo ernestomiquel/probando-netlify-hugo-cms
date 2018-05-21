@@ -2,31 +2,7 @@
 title: ¿Quiénes somos?
 image: /img/photogrid.jpg
 heading: Tenemos ELA Uruguay
-description: Tenemos ELA Uruguay es
-intro:
-  blurbs:
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: Tenemos ELA Uruguay
-  description: "Es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. \nLa misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. \nPara ello los objetivos y actividades incluyen:\n\n-\tBrindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.\n-\tAcompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.\n-\tArticular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.  \n-\tGenerar y difundir conocimiento sobre la ELA en la comunidad.\n-\tPromover y colaborar con la investigación local e internacional en ELA.  \nLa Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones. \n (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15 \n"
+description: "Tenemos ELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. \r\n\nLa misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. \r\n\nPara ello los objetivos y actividades incluyen:\r\n\n\\-\tBrindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.\r\n\n\\-\tAcompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.\r\n\n\\-\tArticular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.  \r\n\n\\-\tGenerar y difundir conocimiento sobre la ELA en la comunidad.\r\n\n\\-\tPromover y colaborar con la investigación local e internacional en ELA.  \r\n\nLa Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones. \r\n\n (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15"
 main:
   heading: Great coffee with no compromises
   description: >
