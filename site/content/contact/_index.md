@@ -11,9 +11,12 @@ contact_entries:
 
 <h3 class="f4 b lh-title mb2">Doaciones</h3>
 
-_Donar transforma vidas_
+_Donar transforma vidas
+_
 
 Cuentas BROU  
 
 * Caja de Ahorro $ 198-0622431
 * Caja de Ahorro U$S 198-0622423
+
+{{< paypal-boton >}}
