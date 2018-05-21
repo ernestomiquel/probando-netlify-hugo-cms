@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Jornada de actualización para personal de la salud
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
