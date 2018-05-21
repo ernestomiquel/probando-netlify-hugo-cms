@@ -4,7 +4,7 @@ image: /img/photogrid.jpg
 values:
   - heading: Participación en el CELAU
     imageUrl: /img/logo_celau.jpg
-    text: >
+    text: >+
       La Esclerosis Lateral Amiotrófica (ELA) es una enfermedad
       neurodegenerativa, crónica, progresiva y compleja, que requiere un
       abordaje asistencial interdisciplinario e integral. La primer necesidad
@@ -45,13 +45,17 @@ values:
       Neurobiología Celular y Molecular. También se practica la docencia como
       formación permanente y trabajamos con el objetivo de que el CELAU se
       configure y reconozca como un centro de referencia a Nivel Nacional.
+
+
+      http://www.institutodeneurologia.edu.uy/sitio/
+
+      http://www.histoemb.fmed.edu.uy/
+
+      http://www.hc.edu.uy/
+
   - heading: ''
-    imageUrl: /img/about-single-origin.jpg
-    text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
+    imageUrl: /img/equipo interdisciplinario.jpg
+    text: ''
   - heading: Prueba video youtube
     imageUrl: /img/about-sustainable-farming.jpg
     text: |
