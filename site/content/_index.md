@@ -1,6 +1,6 @@
 ---
-title: Tenemos ELA
-subtitle: Apoyando a pacientes y familiares
+title:
+subtitle: 
 image: /img/photogrid.jpg
 blurb:
   heading: Tenemos ELA
@@ -40,4 +40,3 @@ values:
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
 ---
-
