@@ -1,22 +1,10 @@
 ---
-title: Our Coffee
-type: products
+title: ¿Quiénes somos?
 image: /img/products-jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: TenemosELA Uruguay
+description: TenemosELA Uruguay es
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -37,12 +25,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: TenemosELA Uruguay
+  description: "Es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. \nLa misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. \nPara ello los objetivos y actividades incluyen:\n-\tBrindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.\n-\tAcompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.\n-\tArticular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.  \n-\tGenerar y difundir conocimiento sobre la ELA en la comunidad.\n-\tPromover y colaborar con la investigación local e internacional en ELA.  \nLa Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones. \n (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15 \n"
 main:
   heading: Great coffee with no compromises
   description: >
@@ -98,5 +82,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
