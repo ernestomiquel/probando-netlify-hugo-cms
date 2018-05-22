@@ -34,6 +34,7 @@ Donación con Paypal:
 
 {{< paypal-boton >}}
 
+<br>
 
 <h3 class="f4 b lh-title mb2">2- Quiero ser voluntario</h3>
 
@@ -60,8 +61,17 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
   * Asesoramiento legal y social: Guia de recursos, búsqueda bibliográfica, información, instructivos de trámites, testamento vial, etc.
   * Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.
   * Comunicación aumentativa: investigación, tutoriales, etc.
-
+<br>
+<br>
 
 [Para inscribirse como voluntario haga click aquí](https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform)
+
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
