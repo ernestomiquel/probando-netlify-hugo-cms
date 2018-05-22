@@ -2,28 +2,26 @@
 title: ¿Cómo colaborar?
 logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
-  - heading: Working hours
-    text: 'Monday – Saturday: 9AM – 7PM We’re closed on Sundays'
+  - heading: ''
+    text: ''
+  - heading: ''
+    text: ''
 ---
 ¿Cómo colaborar con Tenemos ELA?
 
-<h3 class="f4 b lh-title mb2">1- Donaciones</h3>
 
-_Donar transforma vidas
-_
+### 1- Donaciones
+
+_Donar transforma vidas_
 
 Las donaciones son una pieza esencial para garantizar la sustentabilidad, así como también lo es el universo de voluntarios y colaboradores que representan un recurso fundamental y valioso para nuestra organización. 
 
 Debido a la falta de protección social en términos de prestaciones y transferencias, las familiares sufren grandes cambios en la economía familiar teniendo que asumir los costos de todas las terapias, cuidados y accesibilidades necesarias para la atención de sus afectados. Por esta razón la Fundación ha resuelto evitar el pago de una afiliación y brindar los servicios sin distinción ni contrapartidas.
 
-La Fundación Tenemos ELA Uruguay no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones de particulares, empresas y artistas que aportan con trabajo. \_
-\_
+La Fundación Tenemos ELA Uruguay no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones de particulares, empresas y artistas que aportan con trabajo. 
 
-_“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de pedir sino que es un proceso de transmitir la importancia de un proyecto \[…] el complejo proceso de involucrar a las personas en una causa que responde a necesidades humanas y que vale la pena apoyar con donativos”.
- (Palencia. Leer, 2001; 152)
-_
+_“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de pedir sino que es un proceso de transmitir la importancia de un proyecto \[…] el complejo proceso de involucrar a las personas en una causa que responde a necesidades humanas y que vale la pena apoyar con donativos”. (Palencia. Leer, 2001; 152)_
+
 
 **Para donar:** 
 
