@@ -12,12 +12,13 @@ contact_entries:
 
 <h3 class="f4 b lh-title mb2 primary">1- Donaciones</h3>
 
-Cuentas BROU  
+Cuentas BROU:  
 
 * Caja de Ahorro $ 198-0622431
 * Caja de Ahorro U$S 198-0622423
-<br>
 
+<br>
+<br>
 Donación con Paypal: 
 
 {{< paypal-boton >}}
@@ -51,6 +52,7 @@ Donación con Paypal:
 <br>
 
 <h3 class="f4 b lh-title mb2 primary">2- Quiero ser voluntario</h3>
+
 
 _“Si ayudo a una sola persona a tener esperanza, no habré vivido en vano.”_ Martin Luther King. 
 
