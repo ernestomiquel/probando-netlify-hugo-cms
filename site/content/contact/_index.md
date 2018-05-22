@@ -65,9 +65,7 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
 <br>
 <br>
 
-[Para inscribirse como voluntario haga click aquí](https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform)
-
 <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform" target="_blank">
-"Para inscribirse como voluntario haga click aquí"
+Para inscribirse como voluntario haga click aquí
 </a>
 
