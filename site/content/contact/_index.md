@@ -10,7 +10,7 @@ contact_entries:
 ¿Cómo colaborar con Tenemos ELA?
 
 
-### 1- Donaciones
+<h3 class="f4 b lh-title mb2">1- Donaciones</h3>
 
 _Donar transforma vidas_
 
@@ -34,6 +34,7 @@ Donación con Paypal:
 
 {{< paypal-boton >}}
 
+
 <h3 class="f4 b lh-title mb2">2- Quiero ser voluntario</h3>
 
 _“Si ayudo a una sola persona a tener esperanza, no habré vivido en vano.”_ Martin Luther King. 
@@ -44,20 +45,23 @@ En Tenemos ELA somos un equipo de voluntarios y voluntarias que colaboramos con 
 
 El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de trabajar. Puedes hacerlo brindando un servicio por un tiempo predeterminado o participando en actividades puntuales. Puedes colaborar en forma individual o desde el voluntariado corporativo con tus compañeros de trabajo. 
 
-**Perfiles de los voluntarios por área de trabajo: **
 
-* Con las personas afectadas 
-  y su familia
+**Perfiles de los voluntarios por área de trabajo:**
+
+* **Con las personas afectadas y su familia**
   * Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento
   * Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa
   * Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
   * Recreación: Talleres, actividades recreativas, etc.
   * Apoyo médico: Odontología, oftalmología, etc.
-* Apoyo en la gestión
+* **Apoyo en la gestión**
   * Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.
   * Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.
   * Asesoramiento legal y social: Guia de recursos, búsqueda bibliográfica, información, instructivos de trámites, testamento vial, etc.
   * Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.
   * Comunicación aumentativa: investigación, tutoriales, etc.
 
+
 [Para inscribirse como voluntario haga click aquí](https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform)
+
+
