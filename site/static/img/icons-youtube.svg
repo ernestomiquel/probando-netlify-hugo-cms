@@ -3,8 +3,26 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-	<path d="M180.322,53.363c-2.024-7.622-7.987-13.624-15.561-15.661
-		C151.037,34,96,34,96,34s-55.037,0-68.762,3.702c-7.573,2.037-13.537,8.039-15.561,15.661C8,67.177,8,96,8,96
-		s0,28.822,3.677,42.638c2.024,7.621,7.988,13.623,15.561,15.661C40.963,158,96,158,96,158s55.037,0,68.762-3.701
-		c7.573-2.038,13.536-8.04,15.561-15.661C184,124.822,184,96,184,96S184,67.177,180.322,53.363"/>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0" y="0" width="32" height="32"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path clip-path="url(#SVGID_2_)" fill="#282828" d="M30.1,8.9c-0.3-1.3-1.3-2.3-2.6-2.6C25.2,5.7,16,5.7,16,5.7s-9.2,0-11.5,0.6
+			C3.3,6.6,2.3,7.6,1.9,8.9C1.3,11.2,1.3,16,1.3,16s0,4.8,0.6,7.1c0.3,1.3,1.3,2.3,2.6,2.6C6.8,26.3,16,26.3,16,26.3s9.2,0,11.5-0.6
+			c1.3-0.3,2.3-1.3,2.6-2.6c0.6-2.3,0.6-7.1,0.6-7.1S30.7,11.2,30.1,8.9"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="0" y="0" width="32" height="32"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<polygon clip-path="url(#SVGID_4_)" fill="#FFFFFF" points="13,20.4 20.7,16 13,11.6 		"/>
+	</g>
+</g>
 </svg>
