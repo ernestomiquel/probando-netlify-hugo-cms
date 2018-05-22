@@ -29,6 +29,7 @@ Cuentas BROU
 
 * Caja de Ahorro $ 198-0622431
 * Caja de Ahorro U$S 198-0622423
+<br>
 
 Donación con Paypal: 
 
@@ -66,12 +67,5 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
 
 [Para inscribirse como voluntario haga click aquí](https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform)
 
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
