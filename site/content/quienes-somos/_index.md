@@ -9,13 +9,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
 
-  
+
 products:
-  - titulo: Presidente honorario
-    image: /img/integrantes-Martin.jpg
+  - image: /img/integrantes-Martin.jpg
     text: Martin Rius
-  - titulo: Presidenta 
-    image: /img/integrantes-Carolina.jpg
+
+products:
+  - image: /img/integrantes-Carolina.jpg
     text: Carolina Rius
 
 ---
