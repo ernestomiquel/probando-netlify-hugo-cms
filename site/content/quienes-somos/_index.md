@@ -11,7 +11,8 @@ main:
 
   
 products:
-  - image: /img/integrantes-Martin.jpg
+  - título: presidente 
+    image: /img/integrantes-Martin.jpg
     text: Martin Rius
   - image: /img/integrantes-Carolina.jpg
     text: Carolina Rius
