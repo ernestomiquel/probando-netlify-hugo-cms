@@ -63,7 +63,7 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
-integrantes:
+products:
   - image: /img/integrantes-Martin.jpg
     text: Martin Rius
 ---
