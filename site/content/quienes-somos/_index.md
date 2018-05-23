@@ -11,7 +11,7 @@ main:
 
   
 products:
-  - titulo: presidente 
+  - titulo: Presidente honorario
     image: /img/integrantes-Martin.jpg
     text: Martin Rius
   - image: /img/integrantes-Carolina.jpg
