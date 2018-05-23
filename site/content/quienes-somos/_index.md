@@ -14,7 +14,8 @@ products:
   - titulo: Presidente honorario
     image: /img/integrantes-Martin.jpg
     text: Martin Rius
-  - image: /img/integrantes-Carolina.jpg
+  - titulo: Presidenta 
+    image: /img/integrantes-Carolina.jpg
     text: Carolina Rius
 
 ---
