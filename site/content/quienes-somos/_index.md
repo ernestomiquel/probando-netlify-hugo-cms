@@ -3,15 +3,7 @@ title: ¿Quiénes somos?
 image: /img/photogrid.jpg
 main:
   heading: TenemosELA Uruguay
-  description: TenemosELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores.
-      Para ello los objetivos y actividades incluyen:
-      *	Brindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.
-      *	Acompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.
-      *	Articular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.  
-      *	Generar y difundir conocimiento sobre la ELA en la comunidad.
-      *	Promover y colaborar con la investigación local e internacional en ELA.  
-    La Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones.
-    (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15.
+  description: TenemosELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. Para ello los objetivos y actividades incluyen: *	Brindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.      *	Acompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.      *	Articular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.  *	Generar y difundir conocimiento sobre la ELA en la comunidad.   *	Promover y colaborar con la investigación local e internacional en ELA. La Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones.  (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15.
 
 presidente:
       - image: /img/integrantes-Martin.jpg
