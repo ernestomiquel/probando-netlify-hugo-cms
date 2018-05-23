@@ -4,7 +4,7 @@ image: /img/photogrid.jpg
 main:
   heading: TenemosELA Uruguay
   description: >+
-  TenemosELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. Para ello los objetivos y actividades incluyen:	
+  TenemosELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. Para ello los objetivos y actividades incluyen	
   * Brindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.
   * Acompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.
   * Articular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.
