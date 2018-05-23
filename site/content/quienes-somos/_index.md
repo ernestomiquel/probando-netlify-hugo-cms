@@ -6,7 +6,6 @@ main:
   description: >-
   TenemosELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos. La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. Para ello los objetivos y actividades incluyen
 
-
 presidente:
       - image: /img/integrantes-Martin.jpg
         text: Martin Rius
@@ -65,3 +64,9 @@ familia:
   - image:
     text: Juan Pablo Frutos
 ---
+Ahora pongo cosas acá abajo a ver cómo responde...
+# esto sería un titulo correo
+* lista
+* lista lista
+**bold**
+_italica_
