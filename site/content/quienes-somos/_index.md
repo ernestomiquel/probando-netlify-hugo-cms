@@ -9,17 +9,19 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
 
-
-products:
-  - image: /img/integrantes-Martin.jpg
-    text: Martin Rius
-
 presidente:
       - image: /img/integrantes-Martin.jpg
         text: Martin Rius
 
-blurbs:
+consejo:
   - image: /img/integrantes-Carolina.jpg
-    text: Carolina Rius
-
+    text: Carolina Rius (Presidenta)
+  - image: /img/integrantes-xime.jpg
+    text: Ximena Insua
+  - image: /img/integrantes-Naty.jpg
+    text: Natalia Verdún
+  - image: /img/integrantes-Lau.jpg
+    text: Laura Martínez Palma
+  - image: /img/integrantes-dilia.jpg
+    text: Dilia Robledo
 ---
