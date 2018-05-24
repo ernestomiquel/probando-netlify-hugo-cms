@@ -34,7 +34,8 @@ presidente:
 
 consejo:
   - image: /img/integrantes-Carolina.jpg
-    text: Carolina Rius (Presidenta)
+    text: Carolina Rius
+    (Presidenta)
   - image: /img/integrantes-xime.jpg
     text: Ximena Insua
   - image: /img/integrantes-Naty.jpg
@@ -88,7 +89,8 @@ familia:
 
 colaboradores:
   - image: /img/integrantes-nofoto.jpg
-    text: Emiliano Bermudez (Cayó la Cabra)
+    text: Emiliano Bermudez
+    (Cayó la Cabra)
   - image: /img/integrantes-nofoto.jpg
     text: Yamandú Cardozo (Agarrate Catalina)
   - image: /img/integrantes-nofoto.jpg
@@ -98,7 +100,7 @@ colaboradores:
   - image: /img/integrantes-nofoto.jpg
     text: Pablo Porciúncula (Senda 7)
   - image: /img/integrantes-nofoto.jpg
-    text: Maximiliano Porciuncula (Senda 7)
+    text: Maximiliano Porciúncula (Senda 7)
   - image: /img/integrantes-nofoto.jpg
     text: Valeria Redón
   - image: /img/integrantes-nofoto.jpg
