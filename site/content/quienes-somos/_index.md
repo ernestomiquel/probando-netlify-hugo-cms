@@ -3,13 +3,10 @@ title: ¿Quiénes somos?
 image: /img/photogrid.jpg
 main:
   heading: TenemosELA Uruguay
-  description: hola estoy escribiendo algo. **negrita** y ahora en _italica_ pero no sé que más. 
-  Y luego hago una lista
-  * Uno
-  * dos
-
-
-    Y no se que mas poner
+  description: { hoooola
+    hago muchas cosas entre corchetessss.
+    y nadie me puede parar: nono non nonono
+  }
 
 presidente:
       - image: /img/integrantes-Martin.jpg
