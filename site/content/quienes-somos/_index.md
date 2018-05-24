@@ -10,16 +10,21 @@ main:
 Para ello los objetivos y actividades incluyen:
 
 
+
 1. Brindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.
+
 
 
 2. Acompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.
 
 
+
 - Articular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.
 
 
+
 * Generar y difundir conocimiento sobre la ELA en la comunidad.
+
 
 
 + Promover y colaborar con la investigación local e internacional en ELA.  
