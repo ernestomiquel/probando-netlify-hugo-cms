@@ -7,14 +7,10 @@ main:
   La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores.
 
 
-Para ello los objetivos y actividades incluyen:
-
-
+Para ello los objetivos y actividades incluyen:  
 
 
 1. Brindar información, atención y apoyo social y legal a las personas afectadas, sus familias y cuidadores.
-
-
 
 
 2. Acompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.
