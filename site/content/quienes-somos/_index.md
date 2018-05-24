@@ -14,6 +14,7 @@ Para ello los objetivos y actividades incluyen:
 
 
 - Acompañar los procesos médicos para avanzar en los cuidados y tratamientos multidisciplinarios; así como promover la capacitación permanente.
+
 - Articular con los actores sociales y gubernamentales de las diferentes áreas temáticas que abarca la ELA: Salud, Cuidados Paliativos y Discapacidad.
 
 
