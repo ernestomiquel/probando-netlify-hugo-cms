@@ -3,8 +3,10 @@ title: ¿Quiénes somos?
 image: /img/photogrid.jpg
 main:
   heading: TenemosELA Uruguay
-  description: |
-   "Es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos.La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. Para ello los objetivos y actividades incluyen: Bla bla bla" 
+  description: hola estoy escribiendo algo. **negrita** y ahora en _italica_ pero no sé que más. 
+  Y luego hago una lista
+  * Uno
+  * dos
 
 
     Y no se que mas poner
