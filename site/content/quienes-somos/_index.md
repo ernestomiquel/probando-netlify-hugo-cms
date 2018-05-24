@@ -90,6 +90,7 @@ familia:
 colaboradores:
   - image: /img/integrantes-nofoto.jpg
     text: 'Emiliano Bermudez
+
     (Cayó la Cabra)'
   - image: /img/integrantes-nofoto.jpg
     text: Yamandú Cardozo (Agarrate Catalina)
