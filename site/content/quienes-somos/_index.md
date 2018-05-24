@@ -23,7 +23,8 @@ Para ello los objetivos y actividades incluyen:
 La Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo por lo cual se financia exclusivamente a través de donaciones.
 
 
- (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394/15
+
+ (*)En noviembre de 2015 iniciamos la gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394 /15
 '
 
 
