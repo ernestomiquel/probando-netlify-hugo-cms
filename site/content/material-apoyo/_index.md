@@ -4,14 +4,18 @@ image: /img/photogrid.jpg
 
 ---
 
-# 1- Video testimonios
+<p class="f4 b lh-title mb2 primary pt4">1- Video testimonios</p>
 
 {{< youtube 6SoYi5ddbRQ >}}
+
 {{< youtube rGSKAMV7tz8 >}}
+
 {{< youtube TBqx5pnKAzA >}}
+
 {{< youtube oKW5NMzBDX8 >}}
 
-# 2- Terapias y cuidados:
+
+<p class="f4 b lh-title mb2 primary pt4">2- Terapias y cuidados:</p>
 
 - Importancia alimentación hipercalórica en la ELA - Ver texto adjunto en carpeta 3.2 Terapias y cuidados
 - Vivir con ELA, terapias y cuidados - Ver texto adjunto en carpeta 3.2 Terapias y cuidados
