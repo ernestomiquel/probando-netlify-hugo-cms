@@ -67,9 +67,9 @@ familia:
     text: Marcela Villareal
   - image: /img/integrantes-Milton.jpg
     text: Milton Dopeso
-  - image:
+  - image: /img/integrantes-nofoto.jpg
     text: Lorena Lungo
-  - image:
+  - image: /img/integrantes-nofoto.jpg
     text: Federico Perez
   - image: /img/integrantes-Viviana.jpg
     text: Viviana Mamigonian
@@ -77,12 +77,34 @@ familia:
     text: Sebastián Rius
   - image: /img/integrantes-MarcelaRius2.jpg
     text: Marcela Rius
-  - image:
+  - image: /img/integrantes-nofoto.jpg
     text: Soledad Yanuzzy
-  - image:
+  - image: /img/integrantes-nofoto.jpg
     text: Florencia Bentancor
-  - image:
+  - image: /img/integrantes-nofoto.jpg
     text: Florencia Rodríguez
-  - image:
+  - image: /img/integrantes-nofoto.jpg
     text: Juan Pablo Frutos
+
+colaboradores:
+  - image: /img/integrantes-nofoto.jpg
+    text: Emiliano Bermudez (Cayó la Cabra)
+  - image: /img/integrantes-nofoto.jpg
+    text: Yamandú Cardozo (Agarrate Catalina)
+  - image: /img/integrantes-nofoto.jpg
+    text: Pinocho Routin
+  - image: /img/integrantes-nofoto.jpg
+    text: Pitufo Lombardo
+  - image: /img/integrantes-nofoto.jpg
+    text: Pablo Porciúncula (Senda 7)
+  - image: /img/integrantes-nofoto.jpg
+    text: Maximiliano Porciuncula (Senda 7)
+  - image: /img/integrantes-nofoto.jpg
+    text: Valeria Redón
+  - image: /img/integrantes-nofoto.jpg
+    text: Alejandra Grenno
+  - image: /img/integrantes-nofoto.jpg
+    text: Patricia Rosas
+  - image: /img/integrantes-nofoto.jpg
+    text: Marcela Villareal
 ---
