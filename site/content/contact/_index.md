@@ -64,14 +64,12 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
 
 **Perfiles de los voluntarios por área de trabajo:**
 
-**Con las personas afectadas y su familia**
-
-
-* Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento
-* Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa
-* Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
-* Recreación: Talleres, actividades recreativas, etc.
-* Apoyo médico: Odontología, oftalmología, etc.
+- **Con las personas afectadas y su familia**
+  * Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento
+  * Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa
+  * Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
+    * Recreación: Talleres, actividades recreativas, etc.
+    * Apoyo médico: Odontología, oftalmología, etc.
 
 
 
