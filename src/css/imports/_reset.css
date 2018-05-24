@@ -34,7 +34,6 @@ body {
 ol, ul {
 	list-style-type: disc;
 	list-style-position: inside;
-	padding-left: 1.2em;
 }
 blockquote, q {
 	quotes: none;
