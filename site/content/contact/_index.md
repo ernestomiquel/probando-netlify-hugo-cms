@@ -70,10 +70,6 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
     + Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
     + Recreación: Talleres, actividades recreativas, etc.
     + Apoyo médico: Odontología, oftalmología, etc.
-
-
-
-
 - **Apoyo en la gestión**
     + Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.
     + Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.
@@ -81,7 +77,7 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
     + Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.
     + Comunicación aumentativa: investigación, tutoriales, etc.
 
-    
+
 <br>
 <br>
 
