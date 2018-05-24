@@ -4,9 +4,8 @@ image: /img/photogrid.jpg
 main:
   heading: TenemosELA Uruguay
   description: |
-    Acá vengo a poner cosas
+   "Es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos.La misión principal es la de mejorar la calidad de vida tanto del afectado como de su familia y cuidadores. Para ello los objetivos y actividades incluyen: Bla bla bla" 
 
-    {{< youtube -M6wfZdA4OY >}}
 
     Y no se que mas poner
 
