@@ -9,11 +9,14 @@ image: /img/photogrid.jpg
 Valeria Redón:
 {{< youtube 6SoYi5ddbRQ >}}
 
+
 Ivon Rey:
 {{< youtube rGSKAMV7tz8 >}}
 
+
 Martín Anesetti Martínez:
 {{< youtube TBqx5pnKAzA >}}
+
 
 Dilia Robledo:
 {{< youtube oKW5NMzBDX8 >}}
@@ -29,4 +32,4 @@ Dilia Robledo:
 - Cuidados Ventilatorios en la ELA (falta texto) - Alejandra Greno
 - Ayudas técnicas de bajo costo (falta texto) - Andres Rey
 
-[1]: /material-alimentacion-hiperc/
+[1]: /material-apoyo/material-alimentacion-hiperc/
