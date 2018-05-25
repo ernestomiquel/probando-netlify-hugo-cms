@@ -32,4 +32,4 @@ Dilia Robledo:
 - Cuidados Ventilatorios en la ELA (falta texto) - Alejandra Greno
 - Ayudas técnicas de bajo costo (falta texto) - Andres Rey
 
-[1]: /material/material-alimentacion-hiperc
+[1]: /material-alimentacion-hiperc
