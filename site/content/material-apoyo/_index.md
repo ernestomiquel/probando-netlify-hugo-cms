@@ -6,12 +6,16 @@ image: /img/photogrid.jpg
 
 <p class="f4 b lh-title mb2 primary pt4">1- Video testimonios</p>
 
+Valeria Redón:
 {{< youtube 6SoYi5ddbRQ >}}
 
+Ivon Rey:
 {{< youtube rGSKAMV7tz8 >}}
 
+Martín Anesetti Martínez:
 {{< youtube TBqx5pnKAzA >}}
 
+Dilia Robledo:
 {{< youtube oKW5NMzBDX8 >}}
 
 
