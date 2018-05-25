@@ -1,12 +1,12 @@
 ---
-title: Importancia de la alimentación hipercalórica en la ELA
+title: Vivir con ELA
 image: /img/photogrid.jpg
 
 ---
 
 <p class="f4 b lh-title mb2 primary pt4">Vivir con ELA, sus tratamientos y cuidados</p>
 
-_Soledad Yanuzzi (Voluntaria de la Organización). Psicologa_
+_Soledad Yanuzzi (Voluntaria de la organización). Psicóloga_
 
 
 Entre el momento que descubrimos que algunas cosas en nuestro cuerpo no andan bien, y la confirmación del diagnóstico, muchas veces habrá pasado largo tiempo. En la ELA como en alguna otra enfermedad, es difícil diagnosticar porque no existe un marcador que indique la presencia o ausencia y solo se llega a su confirmación por la evolución de los síntomas y el descarte de otras patologías. Este proceso puede ser angustiante e incluso puede provocar ansiedad, desconfianza, inseguridad o depresión. Es necesario poder ponerle un nombre a lo que nos está sucediendo porque eso nos dará pautas de cómo seguir.
@@ -25,5 +25,7 @@ La salud, al decir de Pichon Riviere, no es la ausencia de enfermedad sino la ad
 
 En este sentido, una buena herramienta para el proceso que nos toca vivir, es enfocar la _enfermedad_ como _posibilidad_. Esto permitirá resignificar nuestras vidas y reinventarnos de alguna manera para que encontremos sentido a pesar de la ELA. Desde la organización, pretendemos abrir las puertas en este sentido y promovemos que personas afectadas hace más tiempo aconsejen y transfieran sus conocimientos a los más recientes. Proponemos espacios de escritura para desarrollar por ahí un proceso de re significación, o promovemos las habilidades individuales para que las personas concreten sus sueños, den lugar a sus expectativas y re signifiquen sus experiencias. Los apoyamos para adaptar el medio, generar los cambios en la estructura de la familia y el relacionamiento con los demás, en definitiva; seguir la vida. En la fundación Tenemos ELA elegimos seguir viviendo y bajo la consigna reinventarse es vida, hacemos posible una vida más digna para todos a pesar de la ELA.  
 
+
 **Bibliografía**
-ψ	Alizade, A (1995). Clínica con la muerte. Editorial Amorrotur. Bs. As. Argentina.
+
+Alizade, A (1995). Clínica con la muerte. Editorial Amorrotur. Bs. As. Argentina.

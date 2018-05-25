@@ -26,12 +26,15 @@ Dilia Robledo:
 
 - [Importancia alimentación hipercalórica en la ELA][1]
 - [Vivir con ELA, tratamietos y cuidados][2]
-- Voluntades Anticipadas (Ley Nacional N°18.473) - Ver texto adjunto en carpeta 3.2 Terapias y cuidados
-- Cuidado a cuidadores (Florencia Rodríguez)
-- Sistemas de Comunicación Aumentativa Alternativa (CAA) -  Ver texto en carpeta 3.2 Terapias y cuidados
-- Cuidados Ventilatorios en la ELA (falta texto) - Alejandra Greno
+- [Voluntades Anticipadas (Ley Nacional N°18.473)][3]
+- [Cuidar al cuidador][4]
+- [Sistemas de Comunicación Aumentativa Alternativa (SCAA)][5]
+- [Cuidados Ventilatorios en la ELA][6]
 - Ayudas técnicas de bajo costo (falta texto) - Andres Rey
 
 [1]: /info-alimentacion-hiperc
 [2]: /info-vivir-con-ela
-[3]:
+[3]: /info-voluntades-anticipadas
+[4]: /info-cuidado-cuidadores
+[5]: /info-scaa
+[6]: /info-cuidados-ventilatorios
