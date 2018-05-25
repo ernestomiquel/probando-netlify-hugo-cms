@@ -2,9 +2,9 @@
 title: >-
   Jornada de actualización: Cuidados y tratamientos en Esclerosis Lateral
   Amiotrófica 
-date: 2018-04-22T16:32:06-03:00
+date: 2018-04-22T19:32:06.000Z
 description: blurb lburb
-image: /img/2018_04_22_jornada-actualizacion.jpg
+image: /img/noticias/2018_04_22_jornada-actualizacion.jpg
 ---
 ## Jornada de actualización: Cuidados y tratamientos en Esclerosis Lateral Amiotrófica 
 
