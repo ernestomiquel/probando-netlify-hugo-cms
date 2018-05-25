@@ -11,13 +11,7 @@ html {
 
 
 body {
-  /*font-family: var(--font-family);*/
-  @font-face {
-   font-family: 'DinPro';
-   src: url("..\fuentes\DINPRO-REGULAR.OTF");
-   font-style: normal;
-   font-weight: 200;
-  }
+  font-family: var(--font-family);
   font-size: var(--spacing-medium);
   line-height: var(--line-height);
   font-weight: var(--body-font-weight);
