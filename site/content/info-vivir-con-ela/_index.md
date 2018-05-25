@@ -6,7 +6,7 @@ image: /img/photogrid.jpg
 
 <p class="f4 b lh-title mb2 primary pt4">Vivir con ELA, sus tratamientos y cuidados</p>
 
-_Soledad Yanuzzi (Voluntaria de la organización). Psicóloga_
+_Soledad Yanuzzi (voluntaria de la organización). Psicóloga._
 
 
 Entre el momento que descubrimos que algunas cosas en nuestro cuerpo no andan bien, y la confirmación del diagnóstico, muchas veces habrá pasado largo tiempo. En la ELA como en alguna otra enfermedad, es difícil diagnosticar porque no existe un marcador que indique la presencia o ausencia y solo se llega a su confirmación por la evolución de los síntomas y el descarte de otras patologías. Este proceso puede ser angustiante e incluso puede provocar ansiedad, desconfianza, inseguridad o depresión. Es necesario poder ponerle un nombre a lo que nos está sucediendo porque eso nos dará pautas de cómo seguir.

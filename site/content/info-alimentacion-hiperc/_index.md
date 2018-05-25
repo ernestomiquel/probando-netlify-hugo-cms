@@ -7,8 +7,7 @@ image: /img/photogrid.jpg
 <p class="f4 b lh-title mb2 primary pt4">Importancia de la alimentación hipercalórica en la ELA</p>
 
 _Mag. en Nutrición Natalia La Rocca
-Licenciada en Nutrición en Centro de Esclerosis Lateral Amiotrófica del Uruguay (CELAU)
-Asistente Dpto. de Nutrición Clínica. Escuela de Nutrición, UDELAR._
+Licenciada en Nutrición en Centro de Esclerosis Lateral Amiotrófica del Uruguay (CELAU). Asistente Dpto. de Nutrición Clínica. Escuela de Nutrición, UDELAR._
 
 
 La nutrición es uno de los pilares fundamentales en el tratamiento de la ELA. Debemos tener en cuenta que las personas afectadas con ELA suelen presentar trastornos deglutorios (disfagia) debido a las dificultades que presentan, tanto para la masticación, como para la formación y vehiculización del bolo alimenticio (causada por la debilidad muscular propia de la ELA), disminuyendo de esta forma su aporte calórico y de nutrientes.
