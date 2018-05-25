@@ -8,7 +8,7 @@ values:
       La Esclerosis Lateral Amiotrófica (ELA) es una enfermedad
       neurodegenerativa, crónica, progresiva y compleja, que requiere un
       abordaje asistencial interdisciplinario e integral. La primer necesidad
-      percibida desde la organización TenemosELA Uruguay, fue la atención escasa
+      percibida desde la organización Tenemos ELA Uruguay, fue la atención escasa
       y fragmentada del sistema de salud actual en Uruguay, la ausencia de este
       tipo de abordaje y la inexistencia de un centro de referencia para
       pacientes, familiares y personal sanitario que lo tuviera en cuenta.
@@ -21,7 +21,7 @@ values:
       trayectoria evolutiva con una visión integral, que asegure la calidad,
       accesibilidad y equidad de los cuidados. El programa comenzó a ejecutarse
       en el espacio de investigación, docencia y asistencia dirigido a
-      enfermedades neuromusculares en el Hospital Universitario. 
+      enfermedades neuromusculares en el Hospital Universitario.
 
       En este espacio, recientemente denominado CELAU se brinda asesoramiento e
       información sobre la enfermedad desde una mirada integral con asistencia
@@ -38,7 +38,7 @@ values:
       incluir el adecuado control sintomático, entrenamiento en métodos
       alternativos-aumentativos de la comunicación, apoyo psico-social y
       mantenimiento funcional. Debe monitorearse en forma continua el bienestar
-      emocional de la persona que padece la enfermedad y su familia. 
+      emocional de la persona que padece la enfermedad y su familia.
 
       En CELAU se integra la investigación en conjunto con Facultad de
       Medicina,Departamento de Histología y Embriología, Laboratorio de
@@ -79,4 +79,3 @@ values:
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
 ---
-

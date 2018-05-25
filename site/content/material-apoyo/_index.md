@@ -30,7 +30,7 @@ Dilia Robledo:
 - [Cuidar al cuidador][4]
 - [Sistemas de Comunicación Aumentativa Alternativa (SCAA)][5]
 - [Cuidados Ventilatorios en la ELA (próximamente)][6]
-- [Ayudas técnicas de bajo costo(próximamente)][7]
+- [Ayudas técnicas de bajo costo (próximamente)][7]
 
 [1]: /info-alimentacion-hiperc
 [2]: /info-vivir-con-ela
