@@ -6,7 +6,7 @@ image: /img/photogrid.jpg
 
 <p class="f4 b lh-title mb2 primary pt4">Cuidar al cuidador</p>
 
-_Florencia Rodriguez (Voluntaria de la organización). Psicóloga._
+_Florencia Rodriguez (voluntaria de la organización). Psicóloga._
 
 
 Generalmente el cuidador principal pertenece al núcleo familiar del enfermo. La familia cumple un papel fundamental en el proceso de la ELA y en cualquier otra situación de dependencia.  Al enterarse del diagnóstico de la enfermedad del ser querido comienza un camino emocional que se asemeja al del propio enfermo. Es habitual que transiten una crisis emocional que moviliza cuestiones existenciales desafiados por la propia enfermedad y los procesos de duelo permanentes, trayendo al ruedo cuestionamientos de cara a la muerte, tema complejo en la cultura occidental.

@@ -29,8 +29,8 @@ Dilia Robledo:
 - [Voluntades Anticipadas (Ley Nacional N°18.473)][3]
 - [Cuidar al cuidador][4]
 - [Sistemas de Comunicación Aumentativa Alternativa (SCAA)][5]
-- [Cuidados Ventilatorios en la ELA][6]
-- Ayudas técnicas de bajo costo (falta texto) - Andres Rey
+- [Cuidados Ventilatorios en la ELA (próximamente)][6]
+- [Ayudas técnicas de bajo costo(próximamente)][7]
 
 [1]: /info-alimentacion-hiperc
 [2]: /info-vivir-con-ela
@@ -38,3 +38,4 @@ Dilia Robledo:
 [4]: /info-cuidado-cuidadores
 [5]: /info-scaa
 [6]: /info-cuidados-ventilatorios
+[7]: /info-ayudas-bajo-costos

@@ -43,9 +43,11 @@ Este tipo de tecnología debe ser evaluada por la familia, los cuidadores y el p
 **Fuentes:**
 
 http://www.ceapat.es
+
 http://arasaac.org/
 
 **Artículos recomendados:**
 
 http://www.asha.org/public/speech/disorders/AAC.htm?LangType=1034
+
 https://www.isaac-online.org/english/what-is-aac/
