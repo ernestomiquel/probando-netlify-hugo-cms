@@ -79,7 +79,6 @@
 @import './imports/_media-queries';
 @import './imports/_variables';
 @import './imports/_meto-fuentes';
-@import './imports/owl.carousel';
 
 /* Debugging */
 @import './imports/_debug-children';
