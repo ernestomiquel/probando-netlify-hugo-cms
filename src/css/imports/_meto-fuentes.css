@@ -1,6 +1,6 @@
 @font-face {
  font-family: "DinPro";
- src: url("/fuentes/DINPRO-REGULAR.OTF") format("opentype"),
+ src: url("/fuentes/DINPRO-REGULAR.OTF") format("opentype");
  src: url("/fuentes/DINPro-Regular.svg#DINPro-Regular") format("svg");
  font-style: normal;
 }
