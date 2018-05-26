@@ -1,5 +1,10 @@
-@@font-face {
+@font-face {
  font-family: DinPro;
  src: url("http://prueba-netlifycms-hugo.netlify.com/fuentes/DINPRO-REGULAR.OTF");
+ font-style: normal;
+}
+@font-face {
+ font-family: DinPro-svg;
+ src: url("http://prueba-netlifycms-hugo.netlify.com/fuentes/DINPro-Regular.svg#DINPro-Regular");
  font-style: normal;
 }
