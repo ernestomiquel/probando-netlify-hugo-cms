@@ -5,6 +5,43 @@
       url("/fuentes/DINPro-Regular.woff2") format("woff2"),
       url("/fuentes/DINPro-Regular.woff") format("woff"),
       url("/fuentes/DINPro-Regular.svg#DINPro-Regular") format("svg");
- font-style: normal;
  font-weight: normal;
+ font-style: normal;
+}
+@font-face {
+ font-family: "DinPro";
+ src: url("/fuentes/DINPRO-BOLD.OTF") format("opentype"),
+      url("/fuentes/DINPro-Bold.ttf") format("truetype"),
+      url("/fuentes/DINPro-Bold.woff") format("woff"),
+      url("/fuentes/DINPro-Bold.svg#DINPro-Bold") format("svg");
+ font-weight: bold;
+ font-style: normal;
+}
+@font-face {
+ font-family: "DinPro";
+ src: url("/fuentes/DINPRO-MEDIUM.OTF") format("opentype"),
+      url("/fuentes/DINPro-Medium.ttf") format("truetype"),
+      url("/fuentes/DINPro-Medium.woff") format("woff"),
+      url("/fuentes/DINPro-Medium.svg#DINPro-Medium") format("svg");
+ font-weight: medium;
+ font-style: normal;
+}
+@font-face {
+ font-family: "DinPro";
+ src: url("/fuentes/DINPRO-BLACK.OTF") format("opentype"),
+      url("/fuentes/DINPro-Black.ttf") format("truetype"),
+      url("/fuentes/DINPro-Black.woff2") format("woff2"),
+      url("/fuentes/DINPro-Black.woff") format("woff"),
+      url("/fuentes/DINPro-Black.svg#DINPro-Black") format("svg");
+ font-weight: black;
+ font-style: normal;
+}
+@font-face {
+ font-family: "DinPro";
+ src: url("/fuentes/DINPRO-LIGHT.OTF") format("opentype"),
+      url("/fuentes/DINPro-Light.ttf") format("truetype"),
+      url("/fuentes/DINPro-Light.woff") format("woff"),
+      url("/fuentes/DINPro-Light.svg#DINPro-Light") format("svg");
+ font-weight: light;
+ font-style: normal;
 }
