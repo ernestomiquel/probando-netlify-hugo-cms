@@ -11,12 +11,16 @@
     </div>
   </div>
 </div>-->
-
-<div id="cssSlider">
-  <div id="sliderImages">
-		<img id="si_1" src="{{ .image1.image }}" alt="{{ .image1.alt }}" />
-		<img id="si_2" src="{{ .image2.image }}" alt="{{ .image2.alt }}" />
-		<img id="si_3" src="{{ .image3.image }}" alt="{{ .image3.alt }}" />
-		<div style="clear:left;"></div>
-	</div>
+<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mw7 center ph3">
+    <div id="cssSlider">
+      <div id="sliderImages">
+		      <img id="si_1" src="{{ .image1.image }}" alt="{{ .image1.alt }}" />
+		        <img id="si_2" src="{{ .image2.image }}" alt="{{ .image2.alt }}" />
+		          <img id="si_3" src="{{ .image3.image }}" alt="{{ .image3.alt }}" />
+		            <div style="clear:left;">
+                </div>
+      </div>
+    </div>
+  </div>
 </div>
