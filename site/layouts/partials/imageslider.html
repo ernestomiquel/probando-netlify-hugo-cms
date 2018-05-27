@@ -1,4 +1,4 @@
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+<!--<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
       <img class="d-block img-fluid" src="{{ .image1.image }}" alt="{{ .image1.alt }}">
@@ -10,4 +10,13 @@
       <img class="d-block img-fluid" src="{{ .image3.image }}" alt="{{ .image3.alt }}">
     </div>
   </div>
+</div>-->
+
+<div id="cssSlider">
+  <div id="sliderImages">
+		<img id="si_1" src="{{ .image1.image }}" alt="{{ .image1.alt }}" />
+		<img id="si_2" src="{{ .image2.image }}" alt="{{ .image2.alt }}" />
+		<img id="si_3" src="{{ .image3.image }}" alt="{{ .image3.alt }}" />
+		<div style="clear:left;"></div>
+	</div>
 </div>
