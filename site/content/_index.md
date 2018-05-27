@@ -29,4 +29,11 @@ values:
     of colonialism and mindless abuse of natural resources and human lives. We
     want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+slider:
+  - image1:
+    image: /img/photogrid.jpg
+    alt: Probando poner algo
+  - image2:
+    image: /img/imagenes-pag-cuidados-ela.jpg
+    alt: bla bla bla
 ---
