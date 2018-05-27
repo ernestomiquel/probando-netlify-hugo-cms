@@ -12,6 +12,6 @@
 
 {{ partial "bloque-twitter" . }}
 
-{{ partial "imageslider" .Params }}
+{{ partial "imageslider" (dict "image1" .Params.slider.image1 "image" .Params.slider.image1 "alt"  "/slider") }}
 
 {{ end }}
