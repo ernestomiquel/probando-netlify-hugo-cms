@@ -2,8 +2,6 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "carousel" .Params.slider}}
-
 {{ partial "short-text" .Params.blurb}}
 
 {{ partial "2-up" .Params }}
@@ -15,5 +13,7 @@
 {{ partial "bloque-twitter" . }}
 
 {{ partial "imageslider" .Params.slider}}
+
+{{ partial "carousel" .Params.slider}}
 
 {{ end }}
