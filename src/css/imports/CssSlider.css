@@ -6,7 +6,7 @@
 }
 
 #sliderImages {
-	width : 100%; /*4000px;*/
+	width : 500%; /*4000px;*/
 	height: 300px;
 	overflow: hidden;
 
@@ -21,6 +21,59 @@
 	float: left;
 }
 
+@keyframes slide{
+	0%{margin-left: 0px;}
+	17%{margin-left: 0px;}
+	20%{margin-left: -100%;}
+	37%{margin-left: -100%;}
+	40%{margin-left: -200%;}
+	57%{margin-left: -200px;}
+	60%{margin-left: -300px;}
+	77%{margin-left: -300px;}
+	80%{margin-left: -400px;}
+	97%{margin-left: -400px;}
+	100%{margin-left: 0px;}
+}
+
+@-moz-keyframes slide{
+	0%{margin-left: 0px;}
+	17%{margin-left: 0px;}
+	20%{margin-left: -100%;}
+	37%{margin-left: -100%;}
+	40%{margin-left: -200%;}
+	57%{margin-left: -200%;}
+	60%{margin-left: -300%;}
+	77%{margin-left: -300%;}
+	80%{margin-left: -400%;}
+	100%{margin-left: -400%;}
+}
+
+@-webkit-keyframes slide{
+	0%{margin-left: 0px;}
+	17%{margin-left: 0px;}
+	20%{margin-left: -100%;}
+	37%{margin-left: -100%;}
+	40%{margin-left: -200%;}
+	57%{margin-left: -200%;}
+	60%{margin-left: -300%;}
+	77%{margin-left: -300%;}
+	80%{margin-left: -400%;}
+	100%{margin-left: -400%;}
+}
+
+@-o-keyframes slide{
+	0%{margin-left: 0px;}
+	17%{margin-left: 0px;}
+	20%{margin-left: -100%;}
+	37%{margin-left: -100%;}
+	40%{margin-left: -200%;}
+	57%{margin-left: -200%;}
+	60%{margin-left: -300%;}
+	77%{margin-left: -300%;}
+	80%{margin-left: -400%;}
+	100%{margin-left: -400%;}
+}
+/*
 @keyframes slide{
 	0%{margin-left: 0px;}
 	17%{margin-left: 0px;}
@@ -73,3 +126,4 @@
 	80%{margin-left: -3200px;}
 	100%{margin-left: -3200px;}
 }
+*/
