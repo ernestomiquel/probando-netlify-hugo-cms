@@ -16,7 +16,7 @@ intro:
   text: >-
     Próximas actividades de Tenemos ELA Uruguay.
 products:
-  - image: img/noticias/toque-ela-gif
+  - image: img/noticias/toque-ela.gif
     text: >-
       Jornadas de .......
   - image: /img/noticias/toque-ela-banner.jpg
