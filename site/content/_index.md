@@ -16,10 +16,10 @@ intro:
   text: >-
     Próximas actividades de Tenemos ELA Uruguay.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/toque-ela-gif
     text: >-
       Jornadas de .......
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/toque-ela-banner.jpg
     text: >-
       Otra actividad podría ir acá.
 values:
