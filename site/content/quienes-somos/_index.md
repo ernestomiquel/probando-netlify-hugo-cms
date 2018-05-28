@@ -1,6 +1,6 @@
 ---
 title: ¿Quiénes somos?
-image: /img/logo-banner.svg
+image: /img/logo-banner.png
 main:
   heading: Tenemos ELA Uruguay
   description: 'Tenemos ELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos.
