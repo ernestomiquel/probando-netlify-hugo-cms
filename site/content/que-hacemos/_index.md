@@ -1,6 +1,6 @@
 ---
 title: ¿Qué hacemos?
-image: /img/photogrid.jpg
+image: /img/logo-banner2.svg
 values:
   - heading: Participación en el CELAU
     imageUrl: /img/logo_celau.jpg

@@ -1,6 +1,6 @@
 ---
 title: Material de apoyo
-image: /img/photogrid.jpg
+image: /img/logo-banner2.svg
 
 ---
 
