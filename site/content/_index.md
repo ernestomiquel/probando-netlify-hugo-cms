@@ -39,7 +39,7 @@ slider:
   image3:
     image: /img/banners/banner_web_3.jpg
     alt: pop
-  image2:
+  image4:
     image: /img/banners/banner_web_4.jpg
     alt: eaeaeaeae
 ---
