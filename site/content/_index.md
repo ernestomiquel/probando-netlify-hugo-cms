@@ -16,19 +16,16 @@ intro:
   text: >-
     Próximas actividades de Tenemos ELA Uruguay.
 products:
-  - image: img/toque-ela-gif
+  - image: img/noticias/toque-ela-gif
     text: >-
       Jornadas de .......
-  - image: /img/toque-ela-banner.jpg
+  - image: /img/noticias/toque-ela-banner.jpg
     text: >-
       Otra actividad podría ir acá.
 values:
-  heading: Our values
+  heading: Otra sección?
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    No sé, quizás se puedan poner otras cosas en este formato de texto de un lado e imagen del otro...
 slider:
   image1:
     image: /img/banners/banner_web_1.jpg
