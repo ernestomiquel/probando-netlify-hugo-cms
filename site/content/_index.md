@@ -31,9 +31,15 @@ values:
     exhilarating, empowering and unifying nature.
 slider:
   image1:
-    image: /img/photogrid.jpg
+    image: /img/banners/banner_web_1.jpg
     alt: Probando poner algo
   image2:
-    image: /img/imagenes-pag-cuidados-ela.jpg
+    image: /img/banners/banner_web_2.jpg
     alt: bla bla bla
+  image3:
+    image: /img/banners/banner_web_3.jpg
+    alt: pop
+  image2:
+    image: /img/banners/banner_web_4.jpg
+    alt: eaeaeaeae
 ---
