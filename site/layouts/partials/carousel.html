@@ -4,3 +4,16 @@
   <div><img src="https://pawelgrzybek.com/siema/assets/siema--pink.svg" alt="Siema image" /></div>
   <div><img src="https://pawelgrzybek.com/siema/assets/siema--yellow.svg" alt="Siema image" /></div>
 </div>
+
+<!-- script javascript para siema-->
+<script src="https://pawelgrzybek.com/siema/assets/siema.min.js"></script>
+
+<script>
+const mySiema = new Siema({
+  duration: 250,
+  loop: true,
+});
+
+// listen for keydown event
+setInterval(() => mySiema.next(), 1000);
+</script>
