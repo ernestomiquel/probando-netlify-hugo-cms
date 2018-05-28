@@ -12,10 +12,11 @@
 const mySiema = new Siema({
   duration: 250,
   loop: true,
-  onInit: () => document.getElementById("carrusel-siema").style.visibility = "visible";
 });
 
 // listen for keydown event
 setInterval(() => mySiema.next(), 5000);
+
+onInit: () => document.getElementById("carrusel-siema").style.visibility = "visible";
 
 </script>
