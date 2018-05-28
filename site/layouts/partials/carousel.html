@@ -1,4 +1,4 @@
-<div class="siema">
+<div class="siema" style="visibility: hidden">
   <div><img src="{{ .image1.image }}" alt="{{ .image1.alt }}" /></div>
   <div><img src="{{ .image2.image }}" alt="{{ .image2.alt }}" /></div>
   <div><img src="{{ .image3.image }}" alt="{{ .image3.alt }}" /></div>
@@ -16,4 +16,6 @@ const mySiema = new Siema({
 
 // listen for keydown event
 setInterval(() => mySiema.next(), 5000);
+
+.siema-initialized { visibility: visible; };
 </script>
