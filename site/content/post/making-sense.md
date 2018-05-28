@@ -1,6 +1,6 @@
 ---
 title: Jornada de Nutrición y Deglución
-date: '15/05/2018 12:00 PM8'
+date: '2018-05-15T19:32:06.000Z'
 description: >-
   Jornada para personas con ELA, familiares y cuidadores sobre los cuidados de
   nutrición y deglución.
