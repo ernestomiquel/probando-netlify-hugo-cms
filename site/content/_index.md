@@ -1,7 +1,7 @@
 ---
 title:
 subtitle:
-image: /img/photogrid.jpg
+image: /img/logo-banner2.svg
 blurb:
   heading: Tenemos ELA
   text: >-
@@ -16,12 +16,12 @@ intro:
   text: >-
     Próximas actividades de Tenemos ELA Uruguay.
 products:
-  - image: img/noticias/toque-ela.gif
+  - image: img/noticias/balde-agua-banner.jpg
     text: >-
-      Jornadas de .......
+      ¡Desafío del Balde de agua helada 2018!
   - image: /img/noticias/toque-ela-banner.jpg
     text: >-
-      Otra actividad podría ir acá.
+      Toque por la ELA. Espectáculo a beneficio de Tenemos ELA Uruguay.
 values:
   heading: Otra sección?
   text: >-
