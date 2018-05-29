@@ -20,8 +20,19 @@
 
 		<li><a href="/contact" class="pa2 no-underline db">¿Cómo colaborar?</a></li>
 	</ul>
+	<!-- meto el menu hamburguesa -->
 	<a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
 
 </nav>
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
