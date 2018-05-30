@@ -1,6 +1,6 @@
 ---
 title: Importancia de la alimentación hipercalórica en la ELA
-image: /img/logo-banner2.svg
+image: /img/logo-banner3.svg
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Voluntades anticipadas
-image: /img/logo-banner2.svg
+image: /img/logo-banner3.svg
 
 ---
 

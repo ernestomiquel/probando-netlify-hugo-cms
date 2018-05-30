@@ -1,6 +1,6 @@
 ---
 title: Sistemas de Comunicación Aumentativa y Alternativa (SCAA)
-image: /img/logo-banner2.svg
+image: /img/logo-banner3.svg
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Material de apoyo
-image: /img/logo-banner2.svg
+image: /img/logo-banner3.svg
 
 ---
 
@@ -25,7 +25,7 @@ Dilia Robledo:
 <p class="f4 b lh-title mb2 primary pt4">2- Terapias y cuidados:</p>
 
 - [Importancia alimentación hipercalórica en la ELA][1]
-- [Vivir con ELA, tratamietos y cuidados][2]
+- [Vivir con ELA, tratamientos y cuidados][2]
 - [Voluntades Anticipadas (Ley Nacional N°18.473)][3]
 - [Cuidar al cuidador][4]
 - [Sistemas de Comunicación Aumentativa Alternativa (SCAA)][5]
