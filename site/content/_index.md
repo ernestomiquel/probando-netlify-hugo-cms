@@ -1,7 +1,7 @@
 ---
 title:
 subtitle:
-image: /img/logo-banner2.svg
+image: /img/logo-banner3.svg
 blurb:
   heading: Tenemos ELA
   text: >-
