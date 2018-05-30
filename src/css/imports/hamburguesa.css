@@ -4,7 +4,7 @@
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 40em) {
   .topnav a:not(:first-child) {display: none;}
   .topnav ul {display: none;}
   .topnav a.icon {
@@ -13,7 +13,7 @@
   }
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 40em) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
     position: absolute;
