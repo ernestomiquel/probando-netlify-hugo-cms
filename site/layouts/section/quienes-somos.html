@@ -3,8 +3,8 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
+<div class="mw7 ph3 center">
+  <div class="measure-wide mb3">
     <p class="f4 b lh-title mb2 primary">{{ .heading }}</p>
     <p>{{ .description | markdownify }}</p>
   </div>
