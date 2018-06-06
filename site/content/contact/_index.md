@@ -1,7 +1,7 @@
 ---
 title: ¿Cómo colaborar?
 logo: /img/logo.svg
-image: /img/logo-banner3.svg
+image: 
 contact_entries:
   - heading: ''
     text: ''

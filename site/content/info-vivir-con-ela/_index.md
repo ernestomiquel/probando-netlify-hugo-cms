@@ -1,6 +1,6 @@
 ---
 title: Vivir con ELA
-image: /img/logo-banner3.svg
+image: 
 
 ---
 

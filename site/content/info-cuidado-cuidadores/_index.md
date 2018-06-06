@@ -1,6 +1,6 @@
 ---
 title: Cuidado a cuidadores
-image: /img/logo-banner3.svg
+image: 
 
 ---
 
