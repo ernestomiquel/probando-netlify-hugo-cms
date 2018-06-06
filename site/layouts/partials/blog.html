@@ -4,7 +4,7 @@
 		<h2 class="f2 b lh-title mb3">Noticias</h2>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap">
-			{{ range first 3 (where .Data.Pages "Type" "post") }}
+			{{ range first 2 (where .Data.Pages "Type" "post") }}
 				<div class="ph1-ns w-100 flex">
 					{{ .Render "li" }}
 				</div>
