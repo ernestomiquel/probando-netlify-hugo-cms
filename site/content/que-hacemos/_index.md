@@ -1,6 +1,6 @@
 ---
 title: ¿Qué hacemos?
-image: 
+image:
 values:
   - heading: Participación en el CELAU
     imageUrl: /img/logo_celau.jpg
@@ -47,7 +47,7 @@ values:
       configure y reconozca como un centro de referencia a Nivel Nacional.
 
 
-      http://www.institutodeneurologia.edu.uy/sitio/
+      http://www.institutodeneurologia.edu.uy/
 
       http://www.histoemb.fmed.edu.uy/
 
