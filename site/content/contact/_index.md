@@ -1,7 +1,7 @@
 ---
 title: ¿Cómo colaborar?
 logo: /img/logo.svg
-image: 
+image:
 contact_entries:
   - heading: ''
     text: ''
@@ -37,21 +37,13 @@ La Fundación Tenemos ELA Uruguay no recibe subvenciones de ningún tipo por lo 
 _“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de pedir sino que es un proceso de transmitir la importancia de un proyecto \[…] el complejo proceso de involucrar a las personas en una causa que responde a necesidades humanas y que vale la pena apoyar con donativos”. (Palencia. Leer, 2001; 152)_
 
 
-**Para donar:**
-
-Cuentas BROU  
-
-* Caja de Ahorro $ 198-0622431
-* Caja de Ahorro U$S 198-0622423
-<br>
-<br>
-Donación con Paypal:
-
-{{< paypal-boton >}}
-
-<br>
 
 <h3 id="voluntarios" class="f4 b lh-title mb2 primary">2- Quiero ser voluntario</h3>
+
+
+<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform" target="_blank">
+Para inscribirse como voluntario haga click aquí
+</a>
 
 
 _“Si ayudo a una sola persona a tener esperanza, no habré vivido en vano.”_ Martin Luther King.
@@ -81,7 +73,3 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
 
 <br>
 <br>
-
-<a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform" target="_blank">
-Para inscribirse como voluntario haga click aquí
-</a>
