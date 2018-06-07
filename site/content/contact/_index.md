@@ -62,6 +62,8 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
 
 **Perfiles de los voluntarios por área de trabajo:**
 
+
+**Con las personas afectadas y su familia**
 <ul>
   <li>Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento</li>
   <li>Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa</li>
@@ -70,22 +72,14 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
   <li>Apoyo médico: Odontología, oftalmología, etc.</li>
 </ul>
 
-- **Con las personas afectadas y su familia**
-    + Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento
-    + Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa
-    + Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
-    + Recreación: Talleres, actividades recreativas, etc.
-    + Apoyo médico: Odontología, oftalmología, etc.
 
-
-
-- **Apoyo en la gestión**
-    + Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.
-    + Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.
-    + Asesoramiento legal y social: Guia de recursos, búsqueda bibliográfica, información, instructivos de trámites, testamento vial, etc.
-    + Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.
-    + Comunicación aumentativa: investigación, tutoriales, etc.
-
-
+**Apoyo en la gestión**
+<ul>
+  <li>Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.</li>
+  <li>Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.</li>
+  <li>Asesoramiento legal y social: Guia de recursos, búsqueda bibliográfica, información, instructivos de trámites, testamento vial, etc.</li>
+  <li>Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.</li>
+  <li>Comunicación aumentativa: investigación, tutoriales, etc.</li>
+</ul>
 <br>
 <br>
