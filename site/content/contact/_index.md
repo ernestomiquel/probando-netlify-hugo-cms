@@ -8,8 +8,6 @@ contact_entries:
   - heading: ''
     text: ''
 ---
-¿Cómo colaborar con Tenemos ELA?
-
 
 <h3 id="donaciones" class="f4 b lh-title mb2 primary">1- Donaciones</h3>
 
