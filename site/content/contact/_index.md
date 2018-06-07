@@ -59,7 +59,9 @@ En Tenemos ELA somos un equipo de voluntarios y voluntarias que colaboramos con 
 El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de trabajar. Puedes hacerlo brindando un servicio por un tiempo predeterminado o participando en actividades puntuales. Puedes colaborar en forma individual o desde el voluntariado corporativo con tus compañeros de trabajo.
 
 
+
 **Perfiles de los voluntarios por área de trabajo:**
+
 
 - **Con las personas afectadas y su familia**
     + Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento
@@ -67,6 +69,7 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
     + Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
     + Recreación: Talleres, actividades recreativas, etc.
     + Apoyo médico: Odontología, oftalmología, etc.
+
 
 
 - **Apoyo en la gestión**
