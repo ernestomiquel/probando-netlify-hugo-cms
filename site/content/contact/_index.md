@@ -63,23 +63,24 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
 **Perfiles de los voluntarios por área de trabajo:**
 
 
-**Con las personas afectadas y su familia**
-<ul>
-  <li>Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento</li>
-  <li>Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa</li>
-  <li>Accesibilidad: modificación de vivienda, accesorios, rampas, etc.</li>
-  <li>Recreación: Talleres, actividades recreativas, etc.</li>
-  <li>Apoyo médico: Odontología, oftalmología, etc.</li>
-</ul>
 
-
-**Apoyo en la gestión**
 <ul>
-  <li>Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.</li>
-  <li>Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.</li>
-  <li>Asesoramiento legal y social: Guia de recursos, búsqueda bibliográfica, información, instructivos de trámites, testamento vial, etc.</li>
-  <li>Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.</li>
-  <li>Comunicación aumentativa: investigación, tutoriales, etc.</li>
+  <li>**Con las personas afectadas y su familia**</li>
+    <ul>
+    <li>Banco de ayudas técnicas: Base de datos, administración, fichas y mantenimiento</li>
+    <li>Acompañamiento terapéutico: Fisiatría, fonoaudiología, psicología, terapia ocupacional, comunicación aumentativa</li>
+    <li>Accesibilidad: modificación de vivienda, accesorios, rampas, etc.</li>
+    <li>Recreación: Talleres, actividades recreativas, etc.</li>
+    <li>Apoyo médico: Odontología, oftalmología, etc.</li>
+    </ul>
+  <li>**Apoyo en la gestión**</li>
+    <ul>
+    <li>Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.</li>
+    <li>Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.</li>
+    <li>Asesoramiento legal y social: Guia de recursos, búsqueda bibliográfica, información, instructivos de trámites, testamento vial, etc.</li>
+    <li>Recaudación de fondos y donaciones: Busqueda de socios amigos, registro y coordinación de donaciones, cobranzas, etc.</li>
+    <li>Comunicación aumentativa: investigación, tutoriales, etc.</li>
+    </ul>
 </ul>
 <br>
 <br>
