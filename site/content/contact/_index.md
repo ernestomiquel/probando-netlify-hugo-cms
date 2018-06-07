@@ -38,7 +38,9 @@ _“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de p
 
 
 
+
 <h3 id="voluntarios" class="f4 b lh-title mb2 primary">2- Quiero ser voluntario</h3>
+
 
 
 <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform" target="_blank">
@@ -63,7 +65,7 @@ El tiempo que dediques dependerá únicamente de tu disponibilidad y ganas de tr
     + Accesibilidad: modificación de vivienda, accesorios, rampas, etc.
     + Recreación: Talleres, actividades recreativas, etc.
     + Apoyo médico: Odontología, oftalmología, etc.
-    
+
 - **Apoyo en la gestión**
     + Organización de eventos: jornadas de difusión, actividades educativas, seminarios, cursos, etc.
     + Diseño y comunicación: manuales, agenda, tutoriales, afiches, notas informativa, cobertura audiovisual de jornadas de capacitación, etc.
