@@ -1,28 +1,10 @@
 ---
 title: Material de apoyo
-image: 
+image:
 
 ---
 
-<p class="f4 b lh-title mb2 primary pt4">1- Video testimonios</p>
-
-Valeria Redón:
-{{< youtube 6SoYi5ddbRQ >}}
-
-
-Ivon Rey:
-{{< youtube rGSKAMV7tz8 >}}
-
-
-Martín Anesetti Martínez:
-{{< youtube TBqx5pnKAzA >}}
-
-
-Dilia Robledo:
-{{< youtube oKW5NMzBDX8 >}}
-
-
-<p class="f4 b lh-title mb2 primary pt4">2- Terapias y cuidados:</p>
+<p class="f4 b lh-title mb2 primary pt4">Terapias y cuidados:</p>
 
 - [Importancia alimentación hipercalórica en la ELA][1]
 - [Vivir con ELA, tratamientos y cuidados][2]
@@ -39,3 +21,22 @@ Dilia Robledo:
 [5]: /info-scaa
 [6]: /info-cuidados-ventilatorios
 [7]: /info-ayudas-bajo-costos
+
+
+
+<p class="f4 b lh-title mb2 primary pt4">Video testimonios</p>
+
+Valeria Redón:
+{{< youtube 6SoYi5ddbRQ >}}
+
+
+Ivon Rey:
+{{< youtube rGSKAMV7tz8 >}}
+
+
+Martín Anesetti Martínez:
+{{< youtube TBqx5pnKAzA >}}
+
+
+Dilia Robledo:
+{{< youtube oKW5NMzBDX8 >}}
