@@ -45,7 +45,6 @@ _“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de p
 <br>
 
 
-
 <a class="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfyqxf03Y8zr7t6mptfIJCWzTIMKkl7S_BYDIWhyJJ5w033Bg/viewform" target="_blank">
 Para inscribirse como voluntario haga click aquí
 </a>
