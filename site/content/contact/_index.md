@@ -36,10 +36,13 @@ La Fundación Tenemos ELA Uruguay no recibe subvenciones de ningún tipo por lo 
 
 _“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de pedir sino que es un proceso de transmitir la importancia de un proyecto \[…] el complejo proceso de involucrar a las personas en una causa que responde a necesidades humanas y que vale la pena apoyar con donativos”. (Palencia. Leer, 2001; 152)_
 
+<br>
 
 
 
 <h3 id="voluntarios" class="f4 b lh-title mb2 primary">2- Quiero ser voluntario</h3>
+
+<br>
 
 
 
