@@ -5,8 +5,9 @@
 {{ with .Params.info }}
 <div class="mw7 ph3 center">
   <div class="measure-wide mb3">
-    <p>{{ .text | markdownify }}</p>
+    <p>{{ .text1 | markdownify }}</p>
     <img src="{{ .imageUrl }}" alt="" class="center db mb1 mw-100 h-auto">
+    <p>{{ .text2 | markdownify }}</p>
   </div>
 </div>
 {{ end }}
