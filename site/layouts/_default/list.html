@@ -5,9 +5,9 @@
 <div class="mw7 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 10).Pages.ByPublishDate }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
+          <div class="ph1-ns w-100 flex">
+  					{{ .Render "li" }}
+  				</div>
       {{ end }}
   </ul>
   {{ partial "pagination" . }}
