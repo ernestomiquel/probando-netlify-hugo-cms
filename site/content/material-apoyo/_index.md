@@ -3,7 +3,6 @@ title: Material de apoyo
 image:
 
 ---
-
 <p class="f4 b lh-title mb2 primary pt4">Terapias y cuidados:</p>
 
 - [Importancia alimentación hipercalórica en la ELA][1]
