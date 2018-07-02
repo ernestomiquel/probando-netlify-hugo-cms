@@ -1,5 +1,5 @@
 ---
-title: Gracias por ponerte en contacto con nosotros
+title: Gracias
 image:
 
 ---
@@ -8,9 +8,3 @@ image:
 
 
 Muchas gracias por tu mensaje. A la brevedad nos pondremos en contacto contigo.
-
-
-
-
-
-    
