@@ -1,10 +1,18 @@
-<form action="" class="flex-ns mb3">
+<form action="https://formspree.io/ernestomiquel@gmail.com" method="POST" class="flex-ns mb3">
 
   <fieldset class="flex-auto mb2 mb0-ns mr2-ns" name="newsletter" action="newsletter-subscribe">
-    <input type="text" id="email" placeholder="Email" class="w-100">
+    <input type="text" id="email" name="correo" placeholder="Email" class="w-100">
     <label for="email">Email</label>
   </fieldset>
-
+  <!-- para que vuelva a la página de contacto -->
+  <input type="hidden" name="_next" value="https://tenemosela.netlify.com/gracias" />
+  <!-- para agregar un subject -->
+  <input type="hidden" name="_subject" value="Mensaje para TenemosELA Uruguay" />
+  <!-- Cambio idioma en formspree -->
+  <input type="hidden" name="_language" value="es" />
+  <!-- para engañar bots -->
+  <input type="text" name="_gotcha" style="display:none" />
+  
   <button class="btn mb3 w-100 w-auto-ns mb0-ns raise" type="submit">Suscribirme</button>
 
 </form>
