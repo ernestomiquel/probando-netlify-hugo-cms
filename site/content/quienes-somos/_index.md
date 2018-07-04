@@ -1,6 +1,6 @@
 ---
 title: ¿Quiénes somos?
-image: 
+image:
 main:
   heading: Tenemos ELA Uruguay
   description: 'Tenemos ELA Uruguay es una organización sin fines de lucro compuesta por personas afectadas con Esclerosis Lateral Amiotrófica, familiares y amigos.
@@ -103,12 +103,4 @@ colaboradores:
     text: Pablo Porciúncula (Senda 7)
   - image: /img/integrantes-nofoto.jpg
     text: Maximiliano Porciúncula (Senda 7)
-  - image: /img/integrantes-nofoto.jpg
-    text: Valeria Redón
-  - image: /img/integrantes-nofoto.jpg
-    text: Alejandra Grenno
-  - image: /img/integrantes-nofoto.jpg
-    text: Patricia Rosas
-  - image: /img/integrantes-nofoto.jpg
-    text: Marcela Villareal
 ---
