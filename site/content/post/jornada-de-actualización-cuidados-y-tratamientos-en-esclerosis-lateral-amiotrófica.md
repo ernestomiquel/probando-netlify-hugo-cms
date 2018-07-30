@@ -1,21 +1,24 @@
 ---
 title: >-
-  Jornada de actualización: Cuidados y tratamientos en Esclerosis Lateral
+  Jornada de actualización - Cuidados y tratamientos en Esclerosis Lateral
   Amiotrófica
-date: 2018-04-22T19:32:06.000Z
-description: Nos vamos al oeste. Invitamos a los que trabajan o colaboran en la atención a personas con ELA a participar en esta jornada para aprender un poco más sobre los cuidados y tratamientos.
-image: /img/noticias/2018_04_22_jornada-actualizacion.jpg
+date: 2018-07-30T14:37:09.078Z
+description: >-
+  11 de agosto de 2018. 
+
+  Invitamos a los que trabajan o colaboran en la atención a personas con ELA a
+  participar de esta jornada de actualización que se llevará acabo en Minas.
+image: /img/noticias/2018_07_30_jornada actualizacion.jpg
 ---
-Nos vamos al oeste. Invitamos a los que trabajan o colaboran en la atención a personas con ELA a participar en esta jornada para aprender un poco más sobre los cuidados y tratamientos.
+# Jornada de actualización: "Cuidados y tratamientos en Esclerosis Lateral Amiotrófica". 
 
-Dirigido a personal involucrado en la asistencia: Médicos generales y especialistas, psicólogos, técnicos en fisioterapia, fonoaudiología, enfermería, cuidadores, asistentes personales, asistentes sociales, etc.
+Dirigido a persobnal involucrado en la asistencia: Médicos generales y especialistas, psicólogos, fisioterapeutas, fonoaudiólogos, enfermería, cuidadores, asistentes personales, asistentes sociales, etc. 
 
-**Sábado 12 de mayo de 2018 - 10:00 a 13:00 hs**
+## Sábado 11 de agosto de 2018 - 0:30 a 14:00. 
+### Williman 515 (frente a terminal de ómnibus) - Minas, Lavalleja. 
 
-GREMESO, Haedo 643 - Mercedes, Soriano.
-
-**Información**: 098650929
-
-**Inscripciones**: tenemosela.inscripciones@gmail.com
+Invitamos a los que trabajan o colaboran en la atención a personas con ELA a participar de esta jornada de actualización que se llevará acabo en Minas.
+ 
+Inscripciones: [tenemosela.inscripciones@gmail.com](tenemosela.inscripciones@gmail.com)
 
 Agradecemos difundir. Los esperamos!
