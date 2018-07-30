@@ -10,7 +10,7 @@ description: >-
   participar de esta jornada de actualización que se llevará acabo en Minas.
 image: /img/noticias/2018_07_30_jornada actualizacion.jpg
 ---
-## Jornada de actualización: "Cuidados y tratamientos en Esclerosis Lateral Amiotrófica". 
+
 
 Dirigido a personal involucrado en la asistencia: Médicos generales y especialistas, psicólogos, fisioterapeutas, fonoaudiólogos, enfermería, cuidadores, asistentes personales, asistentes sociales, etc. 
 
