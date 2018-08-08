@@ -27,7 +27,7 @@ Se dispone de tarjetas con grupos de letras y/o símbolos gráficos que la perso
 
 Generalmente cuando se utilizan librillos son personalizados (necesidades, gustos, hábitos, etc.).
 
-<img src="/img/info-SCAA-UtilizacionTablero.jpg" alt="Utilizacion del tablero" class="center db mb1 mw-100 h-auto">
+<img src="/img/info-SCAA-UtilizacionTablero.jpg" alt="Utilizacion del tablero" class="center db mb1 w-80 h-auto">
 
 **Comunicadores Digitales**
 
@@ -37,8 +37,8 @@ Se pueden personalizar con los símbolos gráficos que requiera cada persona, pu
 
 Este tipo de tecnología debe ser evaluada por la familia, los cuidadores y el paciente previo a la necesidad de su uso, ya que presenta una complejidad independiente a la enfermedad que es el acceso a la informática y la familiaridad del paciente con estas tecnologías. No siempre las personas están dispuestas a introducirse en el mundo de la informática y eso debe ser respetado a la hora de elegir el método de comunicación.
 
-<img src="/img/info-SCAA-1.jpg" alt="SCAA" class="center db mb1 mw-100 h-auto">
-<img src="/img/info-SCAA-2.jpg" alt="SCAA" class="center db mb1 mw-100 h-auto">
+<img src="/img/info-SCAA-1.jpg" alt="SCAA" class="center db mb1 w-80 h-auto">
+<img src="/img/info-SCAA-2.jpg" alt="SCAA" class="center db mb1 w-80 h-auto">
 
 **Fuentes:**
 
