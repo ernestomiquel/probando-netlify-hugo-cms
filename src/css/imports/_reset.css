@@ -33,7 +33,7 @@ body {
 }
 ol, ul {
 	list-style-type: disc;
-	list-style-position: inside;
+	list-style-position: outside; /* era inside*/
 }
 blockquote, q {
 	quotes: none;
