@@ -32,7 +32,7 @@ slider:
     image: /img/banners/banner_web_1.jpg
     alt: Probando poner algo
   image2:
-    image: /img/banners/banner_web_2.jpg
+    image: /img/banners/banner_web_5.jpg
     alt: bla bla bla
   image3:
     image: /img/banners/banner_web_3.jpg
