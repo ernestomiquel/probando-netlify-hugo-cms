@@ -17,9 +17,9 @@ Cuentas BROU:
 * Caja de Ahorro U$S 000461488-00002
 
 <br>
-/*Donación con Paypal:
+<!-- Donación con Paypal:
 Próximamente
-{{< paypal-boton >}}*/
+{{< paypal-boton >}} -->
 
 <br>
 
