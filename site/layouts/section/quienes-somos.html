@@ -3,29 +3,29 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ with .Params.main }}
-<div class="w-90 mw7 ph3 center">
+<div class="w-90 mw8 ph3 center">
   <div class="measure-wide mb3">
     <p class="f4 b lh-title measure-wide mb2 primary">{{ .heading }}</p>
     <p>{{ .description | markdownify }}</p>
   </div>
 </div>
 {{ end }}
-<div class="w-90 mw7 ph3 center">
+<div class="w-90 mw8 ph3 center">
   <p class="f4 b lh-title measure-wide mb2 primary">Presidente honorario</p>
 </div>
 {{ partial "integrantes-presidente" .Params }}
 
-<div class="w-90 mw7 ph3 center">
+<div class="w-90 mw8 ph3 center">
   <p class="f4 b lh-title measure-wide mb2 primary">Consejo administrativo</p>
 </div>
 {{ partial "integrantes-consejo" .Params }}
 
-<div class="w-90 mw7 ph3 center">
+<div class="w-90 mw8 ph3 center">
   <p class="f4 b lh-title measure-wide mb2 primary">Familia de Tenemos ELA Uruguay</p>
 </div>
 {{ partial "integrantes-familia" .Params }}
 
-<!-- <div class="w-90 mw7 ph3 center">
+<!-- <div class="w-90 mw8 ph3 center">
   <p class="f4 b lh-title measure-wide mb2 primary">Colaboradores incondicionales</p>
 </div>
 {{ partial "integrantes-colaboradores" .Params }}

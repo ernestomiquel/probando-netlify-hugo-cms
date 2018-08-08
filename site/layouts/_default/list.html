@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" "" "title" "Noticias") }}
 
-<div class="mw7 center">
+<div class="mw8 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
           <div class="ph1-ns w-100 flex">
