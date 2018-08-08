@@ -26,7 +26,7 @@ La Fundación Tenemos ELA Uruguay* no recibe subvenciones de ningún tipo, por l
 
 
 
- (*) En gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394 /15. 
+ (*) En gestión ante el Ministerio de Educación y Cultura (MEC) para configurar el estatuto de fundación.  Trámite 394 /15.
 '
 
 
@@ -88,6 +88,8 @@ familia:
     text: Florencia Rodríguez
   - image: /img/integrantes-nofoto.jpg
     text: Juan Pablo Frutos
+  - image: /img/integrantes-ernesto.jpg
+    text: Ernesto Miquel
 
 colaboradores:
   - image: /img/integrantes-nofoto.jpg
