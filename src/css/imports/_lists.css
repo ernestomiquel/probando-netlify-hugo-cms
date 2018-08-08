@@ -1,1 +1,2 @@
-.list { list-style: none; }
+.list { list-style: none;
+        list-style-position: inside}
