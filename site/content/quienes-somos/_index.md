@@ -38,58 +38,62 @@ consejo:
   - image: /img/integrantes-Carolina.jpg
     text: 'Carolina Rius
     (Presidenta)'
-  - image: /img/integrantes-xime.jpg
-    text: Ximena Insua
-  - image: /img/integrantes-Naty.jpg
-    text: Natalia Verdún
-  - image: /img/integrantes-Lau.jpg
-    text: Laura Martínez Palma
   - image: /img/integrantes-dilia.jpg
     text: Dilia Robledo
+  - image: /img/integrantes-Lau.jpg
+    text: Laura Martínez Palma
+  - image: /img/integrantes-Naty.jpg
+    text: Natalia Verdún
+  - image: /img/integrantes-xime.jpg
+    text: Ximena Insua
+
 
 familia:
-  - image: /img/integrantes-Ivon.jpg
-    text: Ivon Rey
-  - image: /img/integrantes-Tami.jpg
-    text: Tamara Insausti
-  - image: /img/integrantes-Liliana.jpg
-    text: Liliana Canestrini
-  - image: /img/integrantes-Fio.jpg
-    text: Fiorella García
-  - image: /img/integrantes-Vani.jpg
-    text: Vanina Redón
-  - image: /img/integrantes-Nico.jpg
-    text: Nicolás Minetti Rey
-  - image: /img/integrantes-Vale.jpg
-    text: Valeria Redón
   - image: /img/integrantes-Ale.jpg
     text: Alejandra Grenno
-  - image: /img/integrantes-paty.jpg
-    text: Patricia Rosas
-  - image: /img/integrantes-Marcela Villareal.jpg
-    text: Marcela Villareal
-  - image: /img/integrantes-Milton.jpg
-    text: Milton Dopeso
-  - image: /img/integrantes-nofoto.jpg
-    text: Lorena Lungo
+  - image: /img/integrantes-ernesto.jpg
+    text: Ernesto Miquel
   - image: /img/integrantes-nofoto.jpg
     text: Federico Perez
-  - image: /img/integrantes-Viviana.jpg
-    text: Viviana Mamigonian
-  - image: /img/integrantes-Seba.jpg
-    text: Sebastián Rius
-  - image: /img/integrantes-MarcelaRius2.jpg
-    text: Marcela Rius
-  - image: /img/integrantes-nofoto.jpg
-    text: Soledad Yanuzzy
+  - image: /img/integrantes-Fio.jpg
+    text: Fiorella García  
   - image: /img/integrantes-nofoto.jpg
     text: Florencia Bentancor
   - image: /img/integrantes-nofoto.jpg
     text: Florencia Rodríguez
+  - image: /img/integrantes-Ivon.jpg
+    text: Ivon Rey
   - image: /img/integrantes-nofoto.jpg
     text: Juan Pablo Frutos
-  - image: /img/integrantes-ernesto.jpg
-    text: Ernesto Miquel
+  - image: /img/integrantes-Liliana.jpg
+    text: Liliana Canestrini
+  - image: /img/integrantes-nofoto.jpg
+    text: Lorena Lungo
+  - image: /img/integrantes-MarcelaRius2.jpg
+    text: Marcela Rius
+  - image: /img/integrantes-Marcela Villareal.jpg
+    text: Marcela Villareal
+  - image: /img/integrantes-Milton.jpg
+    text: Milton Dopeso
+  - image: /img/integrantes-Nico.jpg
+    text: Nicolás Minetti Rey
+  - image: /img/integrantes-paty.jpg
+    text: Patricia Rosas
+  - image: /img/integrantes-Seba.jpg
+    text: Sebastián Rius
+  - image: /img/integrantes-nofoto.jpg
+    text: Soledad Yanuzzy
+  - image: /img/integrantes-Tami.jpg
+    text: Tamara Insausti
+  - image: /img/integrantes-Vale.jpg     
+    text: Valeria Redón
+  - image: /img/integrantes-Vani.jpg
+    text: Vanina Redón
+  - image: /img/integrantes-Viviana.jpg
+    text: Viviana Mamigonian
+
+
+
 
 colaboradores:
   - image: /img/integrantes-nofoto.jpg
