@@ -19,6 +19,6 @@ Dirigido a personal involucrado en la asistencia: Médicos generales y especiali
 
 Invitamos a los que trabajan o colaboran en la atención a personas con ELA a participar de esta jornada de actualización que se llevará acabo en Minas.
  
-Inscripciones: [tenemosela.inscripciones@gmail.com](tenemosela.inscripciones@gmail.com)
+Inscripciones: <tenemosela.inscripciones@gmail.com)>
 
 Agradecemos difundir. Los esperamos!
