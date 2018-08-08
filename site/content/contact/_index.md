@@ -13,13 +13,13 @@ contact_entries:
 
 Cuentas BROU:  
 
-* Caja de Ahorro $ 198-0622431
-* Caja de Ahorro U$S 198-0622423
+* Caja de Ahorro $ 000461488-00001
+* Caja de Ahorro U$S 000461488-00002
 
 <br>
-Donación con Paypal:
-
-{{< paypal-boton >}}
+/*Donación con Paypal:
+Próximamente
+{{< paypal-boton >}}*/
 
 <br>
 
