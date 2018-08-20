@@ -16,3 +16,5 @@ Se sortea con la quiniela nocturna de la fecha 14/9/18
 
 Costo $100 ¡Gracias por colaborar!
 
+Para comprarlas escribinos a: <tenemosela.uy@gmail.com> o contáctanos en nuestra página de [facebook](https://www.facebook.com/tenemoselauruguay/)
+
