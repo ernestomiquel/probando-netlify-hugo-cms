@@ -1,10 +1,10 @@
-.f1 { font-size: 3rem; }
-.f2 { font-size: 2.25rem; }
-.f3 { font-size: 1.5rem; }
-.f4 { font-size: 1.25rem;; }
+.f1 { font-size: 2.25rem; } /*era 3rem*/
+.f2 { font-size: 1.5rem; } /*era 2.25rem*/
+.f3 { font-size: 1.25rem; } /*era 1.5rem*/
+.f4 { font-size: 1.0rem;; } /*era 1.25rem*/
 .f5 { font-size: var(--spacing-medium); }
-.f6 { font-size: .8rem; } /*era .875rem*/
-.f7 { font-size: .73rem; }
+.f6 { font-size: .75rem; } /*era .875rem, luego puse .8*/
+.f7 { font-size: .6rem; } /*era .73rem*/
 
 @media (--breakpoint-not-small) {
   .f-6-ns,
