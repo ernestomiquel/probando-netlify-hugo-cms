@@ -59,7 +59,7 @@ familia:
     text: Fiorella García  
   - image: /img/integrantes-nofoto.jpg
     text: Florencia Bentancor
-  - image: /img/integrantes-nofoto.jpg
+  - image: /img/integrantes-FlorenciaR.jpg
     text: Florencia Rodríguez
   - image: /img/integrantes-Ivon.jpg
     text: Ivon Rey
