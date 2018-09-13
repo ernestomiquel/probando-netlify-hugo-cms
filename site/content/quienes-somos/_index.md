@@ -57,7 +57,7 @@ familia:
     text: Federico Perez
   - image: /img/integrantes-Fio.jpg
     text: Fiorella García  
-  - image: /img/integrantes-nofoto.jpg
+  - image: /img/integrantes-FlorenciaBentancor.jpg
     text: Florencia Bentancor
   - image: /img/integrantes-FlorenciaR.jpg
     text: Florencia Rodríguez
