@@ -53,8 +53,6 @@ familia:
     text: Alejandra Grenno
   - image: /img/integrantes-ernesto.jpg
     text: Ernesto Miquel
-  - image: /img/integrantes-nofoto.jpg
-    text: Federico Perez
   - image: /img/integrantes-Fio.jpg
     text: Fiorella García  
   - image: /img/integrantes-FlorenciaBentancor.jpg
@@ -63,12 +61,8 @@ familia:
     text: Florencia Rodríguez
   - image: /img/integrantes-Ivon.jpg
     text: Ivon Rey
-  - image: /img/integrantes-nofoto.jpg
-    text: Juan Pablo Frutos
   - image: /img/integrantes-Liliana.jpg
     text: Liliana Canestrini
-  - image: /img/integrantes-nofoto.jpg
-    text: Lorena Lungo
   - image: /img/integrantes-MarcelaRius2.jpg
     text: Marcela Rius
   - image: /img/integrantes-Marcela Villareal.jpg
@@ -81,8 +75,6 @@ familia:
     text: Patricia Rosas
   - image: /img/integrantes-Seba.jpg
     text: Sebastián Rius
-  - image: /img/integrantes-nofoto.jpg
-    text: Soledad Yanuzzy
   - image: /img/integrantes-Tami.jpg
     text: Tamara Insausti
   - image: /img/integrantes-Vale.jpg     
