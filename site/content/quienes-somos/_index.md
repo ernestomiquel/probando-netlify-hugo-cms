@@ -81,6 +81,8 @@ familia:
     text: Valeria Redón
   - image: /img/integrantes-Vani.jpg
     text: Vanina Redón
+  - image: /img/integrantes-VeronicaPeña.jpg
+    text: Verónica Peña
   - image: /img/integrantes-Viviana.jpg
     text: Viviana Mamigonian
 
