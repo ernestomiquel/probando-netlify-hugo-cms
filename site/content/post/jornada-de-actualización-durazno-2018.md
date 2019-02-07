@@ -22,7 +22,7 @@ Eusebio Píriz 848 esq. José Batlle y Ordóñez - Durazno
 
 ## Inscripciones:  
 
-<mailto:tenemosela.inscripciones@gmail.com>
+<mailto:inscripciones@tenemosela.org.uy>
 
 con los datos: 1-nombre completo, 2-teléfono de contacto, 3-mail, 4-profesión o motivo de interés
 
