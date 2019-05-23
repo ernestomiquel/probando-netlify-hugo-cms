@@ -16,8 +16,8 @@ Es una actividad sin costo!
 
 Las inscripciones se realizan por el formulario web:
 
-https://forms.gle/CJKShzu4iJAgeFiHA
+<https://forms.gle/CJKShzu4iJAgeFiHA>
 
-Cualquier consulta nos pueden contactar al mail: [info.actividades@tenemosela.org.uy](info.actividades@tenemosela.org.uy)
+Cualquier consulta nos pueden contactar al mail: <mailto:info.actividades@tenemosela.org.uy>
 
 LOS ESPERAMOS!
