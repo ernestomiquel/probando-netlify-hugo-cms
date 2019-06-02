@@ -8,9 +8,9 @@ main:
 
 
 productos:
-      - image: /img/integrantes-Martin.jpg
+      - image: /img/productos/taza.jpeg
         text: Tazas
-      - image: /img/integrantes-Martin.jpg
+      - image: /img/productos/bolsa.jpeg
         text: Bolsas
 
 ---
