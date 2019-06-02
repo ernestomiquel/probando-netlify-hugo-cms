@@ -10,9 +10,9 @@ main:
 productos:
       - image: /img/productos/taza.jpeg
         text: Tazas
-        link: post/tazas-de-tenemos-ela/
+        link: https://tenemosela.org.uy/post/tazas-de-tenemos-ela/
       - image: /img/productos/bolsa.jpeg
         text: Bolsas
-        link: post/tazas-de-tenemos-ela/
+        link: https://tenemosela.org.uy/post/tazas-de-tenemos-ela/
 
 ---
