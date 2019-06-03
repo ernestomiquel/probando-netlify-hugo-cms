@@ -44,13 +44,14 @@ _“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de p
 
 
 Tenemos varios artículos que puedes comprar para colaborar con nosotros.
-Te llevas cosas lindas y al mismo tiempo estás colaborando! 
+Te llevas cosas lindas y al mismo tiempo estás colaborando!
 
 <a class="btn" href="https://tenemosela.org.uy/tienda/" target="_blank">
-Tienda
+Artículos
 </a>
 
-{{ partial "productos" .Params }}
+
+<br>
 
 
 <h3 id="voluntarios" class="f4 b lh-title mb2 primary">3- Quiero ser voluntario</h3>

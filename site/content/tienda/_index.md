@@ -2,8 +2,9 @@
 title: Tienda
 image:
 main:
-  heading: Productos de Tenemos ELA Uruguay
-  description: 'Puedes colaborar con Tenemos ELA Uruguay adquiriendo alguno de estos productos:
+  heading: Artículos de Tenemos ELA Uruguay
+  description: 'Tenemos varios artículos que puedes comprar para colaborar con nosotros:
+  ¡Te llevas cosas lindas y al mismo tiempo estás colaborando!
 '
 
 
