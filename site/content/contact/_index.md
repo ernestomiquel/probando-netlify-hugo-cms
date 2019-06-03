@@ -38,7 +38,22 @@ _“\[…] para organizaciones no lucrativas \[…] no es un simple proceso de p
 
 
 
-<h3 id="voluntarios" class="f4 b lh-title mb2 primary">2- Quiero ser voluntario</h3>
+<h3 id="articulos" class="f4 b lh-title mb2 primary">2- Adquiriendo nuestros artículos</h3>
+
+<br>
+
+
+Tenemos varios artículos que puedes comprar para colaborar con nosotros.
+Te llevas cosas lindas y al mismo tiempo estás colaborando! 
+
+<a class="btn" href="https://tenemosela.org.uy/tienda/" target="_blank">
+Tienda
+</a>
+
+{{ partial "productos" .Params }}
+
+
+<h3 id="voluntarios" class="f4 b lh-title mb2 primary">3- Quiero ser voluntario</h3>
 
 <br>
 
