@@ -8,13 +8,13 @@
 					<a href="{{ .link }}"> <img src="{{ .image }}" alt="" class="center db mb1" style="width: auto; height: auto">
 					<p style="text-align:center">{{.text}}</p></a>
 				</div>
-				{{ end }}
+			{{ end }}
 				<p ></p>
 				<br>
 				<br>
-				{{ range .productos }}
+			{{ range .productos }}
 				<div class="measure-wide">
-				<h2 id="{{ .text}}" class="f2 b lh-title measure-wide mb1">{{ .titulo_seccion}}</h2>
+				<h2 id="{{ .text}}" class="f2 b lh-title measure-wide mb1">{{ .text}}</h2>
 				<img src="{{ .foto1_seccion }}">
 				<img src="{{ .foto2_seccion }}">
 				<img src="{{ .foto3_seccion }}">
