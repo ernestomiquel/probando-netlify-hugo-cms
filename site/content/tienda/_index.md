@@ -11,7 +11,7 @@ main:
 productos:
       - image: /img/productos/taza.jpeg
         text: Tazas
-        link: https://tenemosela.org.uy/post/tazas-de-tenemos-ela#Tazas
+        link: https://tenemosela.org.uy/tienda#Tazas
         foto1_seccion: /img/productos/taza.jpeg
         foto2_seccion: /img/productos/taza.jpeg
         foto3_seccion: /img/productos/taza.jpeg
