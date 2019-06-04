@@ -16,7 +16,10 @@ productos:
         foto2_seccion: /img/productos/taza2.jpeg
         foto3_seccion: /img/productos/taza4.jpeg
         texto_seccion: '¡Tenemos Tazas!
+        
+        
         Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
+        
         
         Precio: $200 
         
@@ -26,6 +29,7 @@ productos:
         
         
         Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook.
+        
 
 ¡Gracias!'
       - image: /img/productos/bolsa.jpeg
