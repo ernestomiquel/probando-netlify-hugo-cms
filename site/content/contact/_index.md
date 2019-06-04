@@ -9,8 +9,7 @@ contact_entries:
     text: ''
 ---
 
-<div class="tc primary b">
-  <p>¡Colabora con nosotros!</p>
+<div class="tc primary b" "align-left">
   <div class="tc pb2">
     <a href="/contact#donaciones" class="btn raise">Donaciones</a>
   </div>
