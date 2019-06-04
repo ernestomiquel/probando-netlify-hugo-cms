@@ -15,15 +15,9 @@ productos:
         foto1_seccion: /img/productos/taza.jpeg
         foto2_seccion: /img/productos/taza2.jpeg
         foto3_seccion: /img/productos/taza4.jpeg
-        texto_seccion: '¡Tenemos Tazas!
-
-
-
+        texto_seccion: '¡Tenemos Tazas!'<br>'
 
 Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
-
-
-
 
 Precio: $200 
 
