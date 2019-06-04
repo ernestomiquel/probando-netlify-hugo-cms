@@ -11,16 +11,18 @@ contact_entries:
 
 <div class="tc primary b" "align-left">
   <div class="tc pb2">
-    <a href="/contact#donaciones" class="btn raise">Donaciones</a>
+    <a href="#donaciones" class="btn raise">Donaciones</a>
   </div>
   <div class="tc pb2">
-    <a href="/contact#articulos" class="btn raise">Artículos para comprar</a>
+    <a href="#articulos" class="btn raise">Artículos para comprar</a>
   </div>
   <div class="tc">
-    <a href="/contact#voluntarios" class="btn raise">Quiero ser voluntario</a>
+    <a href="#voluntarios" class="btn raise">Quiero ser voluntario</a>
   </div>
 </div>
-
+<br>
+<br>
+<br>
 
 <h3 id="donaciones" class="f4 b lh-title mb2 primary">1- Donaciones</h3>
 
