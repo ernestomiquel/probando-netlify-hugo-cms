@@ -11,7 +11,7 @@ main:
 productos:
       - image: /img/productos/taza.jpeg
         text: Tazas
-        link: tienda#Tazas
+        link: #Tazas
         foto1_seccion: /img/productos/taza.jpeg
         foto2_seccion: /img/productos/taza.jpeg
         foto3_seccion: /img/productos/taza.jpeg
@@ -29,7 +29,7 @@ Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra 
 ¡Gracias!'
       - image: /img/productos/bolsa.jpeg
         text: Bolsas
-        link: tienda#Bolsas
+        link: #Bolsas
         foto1_seccion: /img/productos/taza.jpeg
         foto2_seccion: /img/productos/taza.jpeg
         foto3_seccion: /img/productos/taza.jpeg
