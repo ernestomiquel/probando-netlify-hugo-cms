@@ -18,7 +18,7 @@
 				<img src="{{ .foto1_seccion }}">
 				<img src="{{ .foto2_seccion }}">
 				<img src="{{ .foto3_seccion }}">
-				<p class="mb1 measure-wide">{{ .texto_seccion}}</p>
+				<p class="mb1 measure-wide">{{ .texto_seccion | markdownify}}</p>
 				<br><br><br><br>
 				</div>
 			{{ end }}
