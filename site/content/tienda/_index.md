@@ -29,7 +29,7 @@ Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra 
 ¡Gracias!'
       - image: /img/productos/bolsa.jpeg
         text: Bolsas
-        link: https://tenemosela.org.uy/post/tazas-de-tenemos-ela/
+        link: #Bolsas
         foto1_seccion: /img/productos/taza.jpeg
         foto2_seccion: /img/productos/taza.jpeg
         foto3_seccion: /img/productos/taza.jpeg
