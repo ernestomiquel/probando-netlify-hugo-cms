@@ -9,6 +9,20 @@ contact_entries:
     text: ''
 ---
 
+<div class="tc primary b">
+  <p>¡Colabora con nosotros!</p>
+  <div class="tc pb2">
+    <a href="/contact#donaciones" class="btn raise">Donaciones</a>
+  </div>
+  <div class="tc pb2">
+    <a href="/contact#articulos" class="btn raise">Artículos para comprar</a>
+  </div>
+  <div class="tc">
+    <a href="/contact#voluntarios" class="btn raise">Quiero ser voluntario</a>
+  </div>
+</div>
+
+
 <h3 id="donaciones" class="f4 b lh-title mb2 primary">1- Donaciones</h3>
 
 Cuentas BROU:  
