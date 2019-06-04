@@ -28,9 +28,8 @@ productos:
 
 
 
-        Para comprar escribinos a: [contacto@tenemosela.org.uy] o contáctanos en nuestra página de facebook.
+        Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook.
 
-[contacto@tenemosela.org.uy]: mailto://contacto@tenemosela.org.uy
 ¡Gracias!
 
 '
@@ -52,9 +51,8 @@ Precio: $250
 Tenemos varios diseños.
 
 
-Para comprar escribinos a: [contacto@tenemosela.org.uy] o contáctanos en nuestra página de facebook.
+Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook.
 
-[contacto@tenemosela.org.uy]: mailto://contacto@tenemosela.org.uy
 ¡Gracias!
 '
 ---
