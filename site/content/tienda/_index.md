@@ -3,7 +3,7 @@ title: Tienda
 image:
 main:
   heading: Artículos de Tenemos ELA Uruguay
-  description: 'Tenemos varios artículos que puedes comprar para colaborar con nosotros:
+  description: 'Tenemos varios artículos que puedes comprar para colaborar con nosotros: <br>
   ¡Te llevas cosas lindas y al mismo tiempo estás colaborando!
 '
 
@@ -18,18 +18,15 @@ productos:
         texto_seccion: '¡Tenemos Tazas!
 
 
-Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
 
+Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.<br>
 
-Precio: $200
-
+Precio: $200 <br>
 
 Tenemos varios diseños.
-
-
+<br>
 Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook.
-
-
+<br>
 ¡Gracias!'
       - image: /img/productos/bolsa.jpeg
         text: Bolsas
