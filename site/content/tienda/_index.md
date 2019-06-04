@@ -12,7 +12,7 @@ productos:
       - image: /img/productos/taza.jpeg
         text: Tazas
         link: '#Tazas'
-        foto1_seccion: /img/productos/taza.jpeg
+        foto1_seccion: /img/productos/taza3.jpeg
         foto2_seccion: /img/productos/taza2.jpeg
         foto3_seccion: /img/productos/taza4.jpeg
         texto_seccion: '¡Tenemos Tazas!
@@ -35,7 +35,7 @@ productos:
       - image: /img/productos/bolsa.jpeg
         text: Bolsas
         link: '#Bolsas'
-        foto1_seccion: /img/productos/bolsa.jpeg
+        foto1_seccion: /img/productos/bolsa4.jpeg
         foto2_seccion: /img/productos/bolsa2.jpeg
         foto3_seccion: /img/productos/bolsa3.jpeg
         texto_seccion: 'Preciosas bolsas con los diseños de Conrado Arbiza Zabaleta.
