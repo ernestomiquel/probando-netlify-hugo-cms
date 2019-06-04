@@ -19,14 +19,18 @@ productos:
 
 
 
-Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.<br>
 
-Precio: $200 <br>
+Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
+
+
+
+
+Precio: $200 
 
 Tenemos varios diseños.
-<br>
+
 Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook.
-<br>
+
 ¡Gracias!'
       - image: /img/productos/bolsa.jpeg
         text: Bolsas
