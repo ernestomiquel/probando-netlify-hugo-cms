@@ -14,7 +14,7 @@ contact_entries:
     <a href="#donaciones" class="btn raise">Donaciones</a>
   </div>
   <div class="tc pb2">
-    <a href="#articulos" class="btn raise">Artículos para comprar</a>
+    <a href="#articulos" class="btn raise">Adquiere nuestros artículos</a>
   </div>
   <div class="tc">
     <a href="#voluntarios" class="btn raise">Quiero ser voluntario</a>
