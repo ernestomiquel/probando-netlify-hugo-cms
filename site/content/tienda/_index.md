@@ -19,11 +19,11 @@ productos:
 
 Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
 
-Costo: $200
+Precio: $200
 
 Tenemos varios diseños.
 
-Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook
+Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook.
 
 
 ¡Gracias!'
@@ -33,5 +33,14 @@ Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra 
         foto1_seccion: /img/productos/taza.jpeg
         foto2_seccion: /img/productos/taza.jpeg
         foto3_seccion: /img/productos/taza.jpeg
-        texto_seccion: Texto texto texto
+        texto_seccion: 'Preciosas bolsas con los diseños de Conrado Arbiza Zabaleta
+Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
+
+Precio: $250
+
+Tenemos varios diseños.
+
+Para comprar escribinos a: contacto@tenemosela.org.uy o contáctanos en nuestra página de facebook. 
+
+¡Gracias!'
 ---
