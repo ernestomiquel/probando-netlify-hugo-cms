@@ -1,21 +1,16 @@
 ---
 title: Toque por la ELA
-date: 2019-06-02T02:02:49.461Z
+date: 2019-06-25T02:13:29.961Z
 description: >-
-  Una noche de música por el Día Internacional de la ELA. Sábado 22 de junio. 20
-  h. 
-image: /img/noticias/ffe36fac-21bd-4486-a888-6ad871163dcd.jpeg
+  Excelente espectáculo brindado por nuestros artistas solidarios, Pablo+Maxi,
+  Spuntone/Mendaro y la murga Cayó la cabra, con la conducción de Juan Pablo
+  Brianza y Florencia Infante
+image: /img/noticias/20190622_215654-001.jpg
 ---
-Una noche con murga, canción y emoción a beneficio de la organización Tenemos ELA. 
+El 22 de junio en la sala zitarrosa disfrutamos del arte de los hermanos Maxi y Pablo Porciúncula, con sus hermosas canciones como los amigos Alejandro Spuntone y Guzmán Mendaro, con sus hermosas canciones, y la murga Cayó la cabra que presentó parte de su espectáculo 2019.
 
-Cayó la Cabra, Spuntone y Mendaro, y Maxi y Pablo Porciuncula comparten sus voces y arte en este show por el día internacional de la ELA. 
+La conducción estuvo a cargo del actor Juan Pablo Brianza, y la actriz y humorista Florencia Infante.
 
-Espectáculo apto para todo público. 
+Muchísimas gracias a todos ellos, y también a todos los asistentes que nos acompañaron en esta noche especial. También muchas gracias a todos los que trabajaron en prensa y en producción, y todos los voluntarios que estuvieron en distintas tareas para que todo saliera precioso.
 
-Sábado 22 de junio. 20 h. 
-
-Sala Zitarrosa  
-
-Entradas disponibles en tickantel: 
-
-https://tickantel.com.uy/inicio/espectaculo/40006827/espectaculo/Toque%20por%20la%20ELA?0
+Estamos muy contentos, G R A C I A S a todos.
