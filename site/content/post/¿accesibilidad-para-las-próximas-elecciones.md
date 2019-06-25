@@ -2,9 +2,9 @@
 title: ¿Accesibilidad para las próximas elecciones?
 date: 2019-06-25T03:30:55.777Z
 description: >-
-  Este año participamos del acto democrático del sufragio y las condiciones
-  edilicias de muchos de los circuitos privan el derecho a las personas con
-  disminución en la movilidad por su inaccesibilidad
+  Este año participamos del acto democrático del sufragio y muchos de los
+  circuitos no tienen las condiciones de accesibilidad adecuadas, privando el
+  derecho a las personas con disminución en la movilidad.
 ---
 Este año participamos del acto democrático del sufragio y las condiciones edilicias de muchos de los circuitos no tienen condiciones de accesibilidad adecuada para las personas con movilidad reducida. Ello vulnera el derecho de estas personas a participar en este acto eleccionario.
 
