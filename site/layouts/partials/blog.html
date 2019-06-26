@@ -7,7 +7,6 @@
 			{{ range first 3 (where .Data.Pages "Type" "post") }}
 				<div class="ph1-ns w-100 flex">
 					{{ .Render "li" }}
-					{{ .Summary }}
 				</div>
 			{{ end }}
 		</div>
