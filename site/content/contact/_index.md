@@ -30,7 +30,8 @@ Cuentas BROU:
 
 * Caja de Ahorro $ 000461488-00001 - número anterior: CA 198 - 0622431
 * Caja de Ahorro U$S 000461488-00002 - número anterior: CA 198 - 0622423
-
+<br>
+Para depositar en las redes de cobranza (RedPagos, Abitab) se solicita el número anterior de la cuenta BROU (CA 198 - 0622431 en $ y CA 198 - 0622423 en U$S).
 <br>
 <!-- Donación con Paypal:
 Próximamente
