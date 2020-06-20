@@ -53,9 +53,7 @@ Haciendo click en los siguientes botones podrá donar a Tenemos ELA Uruguay util
 data-button-label="Donación $200"
 data-summary-product-label="Donación $200 Tenemos ELA"
 data-preference-id="586125169-4701fc15-35c1-43b5-814a-41e4c022617b">
-button.mercadopago-button {
-  background-color: #cb0033;
-}
+
 </script>
 
 

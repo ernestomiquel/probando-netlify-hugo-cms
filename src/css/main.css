@@ -81,6 +81,7 @@
 /*@import './imports/_meto-fuentes';*/
 @import './imports/siema';
 @import './imports/hamburguesa';
+@import './imports/mercadopago';
 
 /* Debugging */
 @import './imports/_debug-children';
