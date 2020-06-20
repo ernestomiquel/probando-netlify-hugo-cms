@@ -2,9 +2,14 @@
 title: Huellas
 image:
 main:
-  heading: Adquisición de las obras
-  description: 'Las obras están a disposición para ser adquiridas y serán entregadas a partir del 20 de julio.
-El dinero se volcará al trabajo con pacientes y familias que lleva adelante nuestra organización.'
+  heading1: Huellas, muestra de obras de Conrado Arbiza
+  description1: 'El arte atraviesa a Conrado desde siempre. Es su forma de vida, de ver y percibir el mundo. Y ahora que es un artista con ELA, la escritura, el dibujo y la pintura tomaron nuevos rumbos.
+  "La ELA es ayudante de mis pinturas, la enfermedad da su aporte en los cuadros, la enfermedad evoluciona para mal pero en los cuadros los transforma en una evolución para bien", dice en uno de sus textos.
+  Las 51 obras que componen "Huellas" es el testimonio de esa transformación.
+  Los y las invitamos a disfrutarla'
+  heading2: Adquisición de las obras
+  description2: 'Las obras están a disposición para ser adquiridas y serán entregadas a partir del 20 de julio.
+  El dinero se volcará al trabajo con pacientes y familias que lleva adelante nuestra organización.'
 
 consejo:
   - image: /img/integrantes-Carolina.jpg
