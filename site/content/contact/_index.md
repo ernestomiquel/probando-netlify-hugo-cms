@@ -26,7 +26,7 @@ contact_entries:
 
 <h3 id="donaciones" class="f4 b lh-title mb2 primary">1- Donaciones</h3>
 
-Cuentas BROU:  
+**Cuentas BROU:**  
 
 * Caja de Ahorro $ 000461488-00001 - número anterior: CA 198 - 0622431
 * Caja de Ahorro U$S 000461488-00002 - número anterior: CA 198 - 0622423
@@ -40,9 +40,13 @@ Para depositar en las redes de cobranza (RedPagos, Abitab) se solicita el númer
 Próximamente
 {{< paypal-boton >}} -->
 
-Mercadopago:
+**Mercadopago:**
 
 DONACION $ 200 - https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-4701fc15-35c1-43b5-814a-41e4c022617b
+
+<script src="https://www.mercadopago.com.uy/integrations/v1/web-payment-checkout.js"
+data-preference-id="92141022-119b7f41-8b40-406e-bdae-f67c406f0979">
+</script>
 
 DONACIÓN $ 500
 https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-4701fc15-35c1-43b5-814a-41e4c022617b
