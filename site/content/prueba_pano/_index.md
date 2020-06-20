@@ -160,5 +160,60 @@ cuadros:
     nombre: Fantasía 1
     texto:
     link: https://articulo.mercadolibre.com.uy/MLU-472935364-esta-verde-todavia-_JM
-    
+  - image: /img/cuadros/38_estudio-triangulo1.png
+    nombre: Estudio triángulo 1
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935408-esta-verde-todavia-_JM
+  - image: /img/cuadros/39_la-canchita.png
+    nombre: La canchita
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935428-la-canchita-_JM
+  - image: /img/cuadros/40_nocturo.png
+    nombre: Nocturno
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935455-nocturno-_JM
+  - image: /img/cuadros/41_arcoiris.png
+    nombre: Arcoiris
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935691-nocturno-_JM
+  - image: /img/cuadros/42_mariposas.png
+    nombre: Mariposas
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935715-mariposas-_JM
+  - image: /img/cuadros/43_pasos.png
+    nombre: Pasos
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935748-pasos-_JM
+  - image: /img/cuadros/44_lagrimas.png
+    nombre: Lágrimas
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935778-lagrimas-_JM
+  - image: /img/cuadros/45_primavera1.png
+    nombre: Primavera 1
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935821-primavera-1-_JM
+  - image: /img/cuadros/46_moderno.png
+    nombre: Moderno
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935861-primavera-1-_JM
+  - image: /img/cuadros/47_encasillamiento1.png
+    nombre: Encasillamiento 1
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935911-encasillamiento-1-_JM
+  - image: /img/cuadros/48_encasillamiento2.png
+    nombre: Encasillamiento 2
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935999-encasillamiento-2-_JM
+  - image: /img/cuadros/49_la-sonrisa-de-picasso.png
+    nombre: La sonrisa de Picasso
+    texto:
+    link:
+  - image: /img/cuadros/50_churrascos.png
+    nombre: Churrascos
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472936051-churrascos-_JM
+  - image: /img/cuadros/51_homenaje-al-centro-de-las-cosas.png
+    nombre: Homenaje al centro de las cosas
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472936067-homenaje-al-centro-de-las-cosas-_JM?quantity=1&variation=58389258113
 ---
