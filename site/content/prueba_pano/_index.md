@@ -68,5 +68,13 @@ cuadros:
     nombre: ¿Dónde está el punto Wally?
     texto:
     link: https://articulo.mercadolibre.com.uy/MLU-472918197-donde-esta-el-punto-wally-_JM
+  - image: /img/cuadros/15pose-de-la-modelo.png
+    nombre: Pose de la modelo
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472918257-pose-de-la-modelo-JM
+  - image: /img/cuadros/16autorretrato.png
+    nombre: Autorretrato
+    texto: Ésta enfermedad es nuestra como nuestros son: la primavera, las flores, las olas…
+    link: https://articulo.mercadolibre.com.uy/MLU-472918289-autorretrato-JM
 
 ---
