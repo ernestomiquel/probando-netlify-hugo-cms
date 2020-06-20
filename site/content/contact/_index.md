@@ -48,7 +48,7 @@ DONACION $ 200 - https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586
 
 <script src="https://www.mercadopago.com.uy/integrations/v1/web-payment-checkout.js"
 data-button-label="Donación $200"
-data-summary-product-label="Donación $200 a Tenemos ELA Uruguay"
+data-summary-product-label="Donación $200 Tenemos ELA"
 data-preference-id="586125169-4701fc15-35c1-43b5-814a-41e4c022617b">
 </script>
 
