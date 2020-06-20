@@ -17,11 +17,6 @@ main:
   description2: 'Las obras están a disposición para ser adquiridas y serán entregadas a partir del 20 de julio.
   El dinero se volcará al trabajo con pacientes y familias que lleva adelante nuestra organización.'
 
-consejo:
-  - image: /img/integrantes-Carolina.jpg
-    text: 'Carolina Rius
-    (Presidenta)'
-
 
 cuadros:
   - image: /img/cuadros/1_entre_vos_y_yo.png
