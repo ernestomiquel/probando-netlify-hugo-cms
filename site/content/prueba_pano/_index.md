@@ -2,7 +2,7 @@
 title: Huellas
 image:
 main:
-  heading1: Huellas, muestra de obras de Conrado Arbiza
+  heading1: '"Huellas", muestra de obras de Conrado Arbiza'
   description1: 'El arte atraviesa a Conrado desde siempre. Es su forma de vida, de ver y percibir el mundo. Y ahora que es un artista con ELA, la escritura, el dibujo y la pintura tomaron nuevos rumbos.
 
 
