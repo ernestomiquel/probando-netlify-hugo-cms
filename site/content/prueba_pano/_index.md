@@ -38,7 +38,7 @@ cuadros:
     link: https://articulo.mercadolibre.com.uy/MLU-472917606-semillas-_JM
   - image: /img/cuadros/7_retrato_de_un_punto.png
     nombre: Retrato de un punto
-    texto: 'Necesitaba ensuciarme con colores y hacer cuadro en tres días o menos, es una mezcla de las pinturas de los aborígenes australiano, un Mondrian salvaje o el puntillismo de Seurat y hacer algo con una base y encontré en el sistema binario una buena respuesta, los humanos usamos el sistema decimal, las computadoras el sistema binario, lo resuelven todo con el cero y el uno. Ceros y uno son rayas y círculos y la respuesta, la variación la sensibilidad de las computadoras, nuestro paraíso artificial o sea todo mezclado y confuso como buen representante que soy de la civilización blanca judeocristiana y humor claro, nuestra gran respuesta que es el humor.'
+    texto:
     link: https://articulo.mercadolibre.com.uy/MLU-472917667-retrato-de-un-punto-_JM
   - image: /img/cuadros/8_camino_de_los_3_chiflados.png
     nombre: Camino de los tres chiflados
