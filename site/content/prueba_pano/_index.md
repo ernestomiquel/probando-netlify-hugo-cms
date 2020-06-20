@@ -72,7 +72,7 @@ cuadros:
     nombre: Pose de la modelo
     texto:
     link: https://articulo.mercadolibre.com.uy/MLU-472918257-pose-de-la-modelo-JM
-  - image: /img/cuadros/16autorretrato.png
+  - image: /img/cuadros/16_autorretrato.png
     nombre: Autorretrato
     texto: Esta enfermedad es nuestra como nuestros son: la primavera, las flores, las olas...
     link: https://articulo.mercadolibre.com.uy/MLU-472918289-autorretrato-JM
