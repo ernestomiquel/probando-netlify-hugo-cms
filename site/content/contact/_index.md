@@ -47,9 +47,9 @@ Haciendo click en los siguientes botones podrá donar a Tenemos ELA Uruguay util
 DONACION $ 200 - https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-4701fc15-35c1-43b5-814a-41e4c022617b
 
 <script src="https://www.mercadopago.com.uy/integrations/v1/web-payment-checkout.js"
-data-preference-id="586125169-4701fc15-35c1-43b5-814a-41e4c022617b">
 data-button-label="Donación $200"
 data-summary-product-label="Donación $200 a Tenemos ELA Uruguay"
+data-preference-id="586125169-4701fc15-35c1-43b5-814a-41e4c022617b">
 </script>
 
 DONACIÓN $ 500
