@@ -2,8 +2,9 @@
 title: "Huellas", muestra de obras de Conrado Arbiza
 image:
 main:
-  heading: Muestra y venta arte
-  description: 'Aquí les mostramos una serie de cuadros a la venta'
+  heading: Adquisición de las obras
+  description: 'Las obras están a disposición para ser adquiridas y serán entregadas a partir del 20 de julio.
+El dinero se volcará al trabajo con pacientes y familias que lleva adelante nuestra organización.'
 
 consejo:
   - image: /img/integrantes-Carolina.jpg
