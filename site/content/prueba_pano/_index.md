@@ -1,5 +1,5 @@
 ---
-title: "Huellas", muestra de obras de Conrado Arbiza
+title: Huellas, muestra de obras de Conrado Arbiza
 image:
 main:
   heading: Adquisición de las obras
