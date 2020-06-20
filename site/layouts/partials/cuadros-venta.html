@@ -1,8 +1,9 @@
 <div class="w-100 mw8 ph3 center pv1">
-	<div class="measure-wide">
+	<!--<div class="measure-wide">-->
 		<h2 class="f2 b lh-title measure-wide mb1">{{.heading}}</h2>
 		<p class="mb1 measure-wide">{{.description}}</p>
-		<div class="flex flex-wrap justify-center mhn2-ns mb1">
+		<!--<div class="flex flex-wrap justify-center mhn2-ns mb1">-->
+		<div class="flex flex-wrap justify-center mh0 mb1">
 			{{ range .cuadros }}
 				<div class="w-20-ns w-30 ph2 mb1">
 					<a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .nombre }}" class="center db mb1" style="width: auto; height: auto"></a>
@@ -11,5 +12,5 @@
 				</div>
 			{{ end }}
 		</div>
-	</div>
+	<!--</div>-->
 </div>
