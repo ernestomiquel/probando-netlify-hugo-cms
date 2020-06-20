@@ -1,5 +1,5 @@
 ---
-title: Muestra cuadros
+title: "Huellas", muestra de obras de Conrado Arbiza
 image:
 main:
   heading: Muestra y venta arte
