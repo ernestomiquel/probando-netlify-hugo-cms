@@ -33,13 +33,22 @@ Cuentas BROU:
 <br>
 
 <br>
-<br>
 
 Para depositar en las redes de cobranza (RedPagos, Abitab) se solicita el número anterior de la cuenta BROU (CA 198 - 0622431 en $ y CA 198 - 0622423 en U$S).
 <br>
 <!-- Donación con Paypal:
 Próximamente
 {{< paypal-boton >}} -->
+
+Mercadopago:
+
+DONACION $ 200 - https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-4701fc15-35c1-43b5-814a-41e4c022617b
+
+DONACIÓN $ 500
+https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-4701fc15-35c1-43b5-814a-41e4c022617b
+
+DONACIÓN $ 1000
+https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-b5148350-ca10-4c85-bea1-31242ad5d340
 
 <br>
 
