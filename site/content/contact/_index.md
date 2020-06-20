@@ -51,11 +51,6 @@ data-summary-product-label="Donación $200 Tenemos ELA"
 data-preference-id="586125169-4701fc15-35c1-43b5-814a-41e4c022617b">
 </script>
 
-DONACIÓN $ 500
-https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-4701fc15-35c1-43b5-814a-41e4c022617b
-
-DONACIÓN $ 1000
-https://www.mercadopago.com.uy/checkout/v1/redirect?pref_id=586125169-b5148350-ca10-4c85-bea1-31242ad5d340
 
 <script src="https://www.mercadopago.com.uy/integrations/v1/web-payment-checkout.js"
 data-button-label="Donación $1000"
