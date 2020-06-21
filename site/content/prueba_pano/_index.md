@@ -21,10 +21,6 @@ main:
 
 
 cuadros:
-  - image: /img/cuadros/1_entre_vos_y_yo.png
-    nombre: Entre vos y yo
-    texto:
-    link:
   - image: /img/cuadros/2_a_la_mitad.png
     nombre: A la mitad
     texto:
