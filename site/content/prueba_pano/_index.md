@@ -126,7 +126,7 @@ cuadros:
   - image: /img/cuadros/27_rompiendo-el-cascaron.png
     nombre: Rompiendo el cascarón
     texto:
-    link:
+    link: https://articulo.mercadolibre.com.uy/MLU-472935058-cuadro-rompiendo-el-cascaron-_JM?quantity=1&variation=58386651131
   - image: /img/cuadros/28_el-vuelco.png
     nombre: El vuelco
     texto:
@@ -166,11 +166,11 @@ cuadros:
   - image: /img/cuadros/37_fantasia1.png
     nombre: Fantasía 1
     texto:
-    link: https://articulo.mercadolibre.com.uy/MLU-472935364-esta-verde-todavia-_JM
+    link: https://articulo.mercadolibre.com.uy/MLU-472935364-fantasia-1-_JM?quantity=1&variation=58387377780
   - image: /img/cuadros/38_estudio-triangulo1.png
     nombre: Estudio triángulo 1
     texto:
-    link: https://articulo.mercadolibre.com.uy/MLU-472935408-esta-verde-todavia-_JM
+    link: https://articulo.mercadolibre.com.uy/MLU-472935408-estudio-triangulo-1-_JM?quantity=1&variation=58387479864
   - image: /img/cuadros/39_la-canchita.png
     nombre: La canchita
     texto:
@@ -182,7 +182,7 @@ cuadros:
   - image: /img/cuadros/41_arcoiris.png
     nombre: Arcoiris
     texto:
-    link: https://articulo.mercadolibre.com.uy/MLU-472935691-nocturno-_JM
+    link: https://articulo.mercadolibre.com.uy/MLU-472935691-cuadro-arcoiris-_JM
   - image: /img/cuadros/42_mariposas.png
     nombre: Mariposas
     texto:
@@ -214,7 +214,7 @@ cuadros:
   - image: /img/cuadros/49_la-sonrisa-de-picasso.png
     nombre: La sonrisa de Picasso
     texto:
-    link:
+    link: https://articulo.mercadolibre.com.uy/MLU-472936003-cuadro-la-sonrisa-de-picasso-_JM?quantity=1&variation=58389008909
   - image: /img/cuadros/50_churrascos.png
     nombre: Churrascos
     texto:
