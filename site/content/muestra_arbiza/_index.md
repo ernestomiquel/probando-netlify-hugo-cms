@@ -21,6 +21,10 @@ main:
 
 
 cuadros:
+  - image: /img/cuadros/1_entre_vos_y_yo.png
+    nombre: Entre vos y yo
+    texto:
+    link: https://articulo.mercadolibre.com.uy/MLU-472972365-cuadro-entre-vos-y-yo-_JM?quantity=1&variation=58483796018
   - image: /img/cuadros/2_a_la_mitad.png
     nombre: A la mitad
     texto:
