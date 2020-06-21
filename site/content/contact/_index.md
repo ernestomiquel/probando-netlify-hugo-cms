@@ -58,6 +58,14 @@ data-preference-id="586125169-4701fc15-35c1-43b5-814a-41e4c022617b">
 
 
 <script src="https://www.mercadopago.com.uy/integrations/v1/web-payment-checkout.js"
+data-button-label="Donación $500"
+data-summary-product-label="Donación $500 Tenemos ELA"
+data-preference-id="586125169-25a8939c-1e06-43de-8d6d-379959edc795">
+
+</script>
+
+
+<script src="https://www.mercadopago.com.uy/integrations/v1/web-payment-checkout.js"
 data-button-label="Donación $1000"
 data-summary-product-label="Donación $1000 Tenemos ELA"
 data-preference-id="586125169-b5148350-ca10-4c85-bea1-31242ad5d340">
