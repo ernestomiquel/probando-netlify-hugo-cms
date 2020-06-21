@@ -16,7 +16,7 @@ main:
   heading2: Adquisición de las obras
   description2: 'Las obras están a disposición para ser adquiridas y serán entregadas a partir del 20 de julio. Tienen un tamaño de 30 x 40 cm.
 
-  
+
   El dinero se volcará al trabajo con pacientes y familias que lleva adelante nuestra organización.'
 
 
@@ -80,11 +80,11 @@ cuadros:
   - image: /img/cuadros/15_pose-de-la-modelo.png
     nombre: Pose de la modelo
     texto:
-    link: https://articulo.mercadolibre.com.uy/MLU-472918257-pose-de-la-modelo-JM
+    link: https://articulo.mercadolibre.com.uy/MLU-472918257-pose-de-la-modelo-_JM
   - image: /img/cuadros/16_autorretrato.png
     nombre: Autorretrato
     texto: Esta enfermedad es nuestra como nuestros son la primavera, las flores, las olas...
-    link: https://articulo.mercadolibre.com.uy/MLU-472918289-autorretrato-JM
+    link: https://articulo.mercadolibre.com.uy/MLU-472918289-autorretrato-_JM
   - image: /img/cuadros/17_ejercicio-amarillo-y-rojo.png
     nombre: Ejercicio amarillo y rojo
     texto:
