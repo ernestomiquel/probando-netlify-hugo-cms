@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="w-90 mw8 ph3 center">
+	<div class="measure-wide pv3">
+
+		{{ .Content }}
+  </div>
+</div>
+
+{{ partial "carousel" .Params.slider }}
+
+{{ partial "cuadros-venta" .Params }}
+
+{{ end }}
