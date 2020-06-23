@@ -29,7 +29,7 @@ values:
     No sé, quizás se puedan poner otras cosas en este formato de texto de un lado e imagen del otro...
 slider:
   image1:
-    image: /img/banners/banner_web_1.jpg
+    image: /img/banners/banner_web_6.jpg
     alt: Probando poner algo
   image2:
     image: /img/banners/banner_web_5.jpg
