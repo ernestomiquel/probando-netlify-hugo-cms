@@ -30,14 +30,15 @@ values:
 slider:
   image1:
     image: /img/banners/banner_web_6.jpg
-    alt: Probando poner algo
+    alt: Dia ELA 2020
   image2:
     image: /img/banners/banner_web_5.jpg
-    alt: bla bla bla
+    alt: b
   image3:
-    image: /img/banners/banner_web_3.jpg
+    image: /img/banners/banner_web_donaciones2020.jpg
     alt: pop
   image4:
     image: /img/banners/banner_web_4.jpg
-    alt: eaeaeaeae
+    alt: e
+    
 ---
