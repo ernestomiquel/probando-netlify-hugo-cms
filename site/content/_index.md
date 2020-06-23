@@ -29,10 +29,10 @@ values:
     No sé, quizás se puedan poner otras cosas en este formato de texto de un lado e imagen del otro...
 slider:
   image1:
-    image: /img/banners/banner_web_6.jpg
+    image: /img/banners/banner_web_diaELA2020.jpg
     alt: Dia ELA 2020
   image2:
-    image: /img/banners/banner_web_5.jpg
+    image: /img/banners/banner_web_donaciones2020.jpg
     alt: b
   image3:
     image: /img/banners/banner_web_donaciones2020.jpg
