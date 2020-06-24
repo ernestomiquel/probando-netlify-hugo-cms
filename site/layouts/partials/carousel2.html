@@ -18,6 +18,9 @@ class SiemaWithDots extends Siema {
     // add a class 'dots' for styling reason
     this.dots = document.createElement('div');
     this.dots.classList.add('dots');
+    this.dots.classList.add('w-90');
+    this.dots.classList.add('mw8');
+    this.dots.classList.add('center');
 
     // loop through slides to create a number of dots
     for(let i = 0; i < this.innerElements.length; i++) {
