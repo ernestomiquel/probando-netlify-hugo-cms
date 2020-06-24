@@ -8,69 +8,26 @@
 <script src="https://pawelgrzybek.com/siema/assets/siema.min.js"></script>
 
 <script>
-  // extend a Siema class by two methods
-// addDots - to create a markup for dots
-// updateDots - to update classes on dots on change callback
-class SiemaWithDots extends Siema {
-
-  addDots() {
-    // create a contnier for all dots
-    // add a class 'dots' for styling reason
-    this.dots = document.createElement('div');
-    this.dots.classList.add('dots');
-    this.dots.classList.add('w-90');
-    this.dots.classList.add('mw8');
-    this.dots.classList.add('center');
-
-    // loop through slides to create a number of dots
-    for(let i = 0; i < this.innerElements.length; i++) {
-      // create a dot
-      const dot = document.createElement('button');
-
-      // add a class to dot
-      dot.classList.add('dots__item');
-
-      // add an event handler to each of them
-      dot.addEventListener('click', () => {
-        this.goTo(i);
-      })
-
-      // append dot to a container for all of them
-      this.dots.appendChild(dot);
-    }
-
-    // add the container full of dots after selector
-    this.selector.parentNode.insertBefore(this.dots, this.selector.nextSibling);
-  }
-
-  updateDots() {
-    // loop through all dots
-    for(let i = 0; i < this.dots.querySelectorAll('button').length; i++) {
-      // if current dot matches currentSlide prop, add a class to it, remove otherwise
-      const addOrRemove = this.currentSlide === i ? 'add' : 'remove';
-      this.dots.querySelectorAll('button')[i].classList[addOrRemove]('dots__item--active');
-    }
-  }
-}
-
-
-  const mySiema = new SiemaWithDots({
+  const mySiema = new Siema({
     duration: 250,
     loop: true,
-    onInit: function (){
-      document.getElementById("carrusel-siema").style.visibility = "visible"
-      // on init trigger method created above
-      this.addDots();
-      this.updateDots();
-    },
-    // on change trigger method created above
-     onChange: function(){
-       this.updateDots()
-     },
+    onInit: () => document.getElementById("carrusel-siema").style.visibility = "visible"
   });
 
   // listen for keydown event
   setInterval(() => mySiema.next(), 5000);
 
+  // Add a function that generates pagination to prototype
+  Siema.prototype.addPagination = function() {
+    for (let i = 0; i < this.innerElements.length; i++) {
+      const btn = document.createElement('button');
+      btn.textContent = i;
+      btn.addEventListener('click', () => this.goTo(i));
+      this.selector.appendChild(btn);
+    }
+  }
 
+  // Trigger pagination creator
+  mySiema.addPagination();
+  
 </script>
