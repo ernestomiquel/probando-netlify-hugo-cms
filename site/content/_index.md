@@ -33,7 +33,19 @@ slider:
     alt: Dia ELA 2020
     link: /muestra_arbiza
   - image: /img/banners/banner_web_donaciones2020.jpg
-    alt: vv
+    alt: dona
+    link: /contact/#donaciones
+  - image: /img/banners/banner_web_artistas.jpg
+    alt: artistas
+    link:
+  - image: /img/banners/banner_web_clinica.jpg
+    alt: clinica
+    link:
+  - image: /img/banners/banner_web_desafio.jpg
+    alt: Dia ELA 2020
+    link: /muestra_arbiza
+  - image: /img/banners/banner_web_donaciones.jpg
+    alt: dona
     link: /contact/#donaciones
 
 ---
