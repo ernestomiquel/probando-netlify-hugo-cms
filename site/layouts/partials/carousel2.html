@@ -1,0 +1,36 @@
+<div id="carrusel-siema" class="siema w-90 mw8 center" style="visibility: hidden">
+  {{ range .slider }}
+  <a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .alt }}"></a>
+  {{ end }}
+</div>
+
+<!-- script javascript para siema-->
+<script src="https://pawelgrzybek.com/siema/assets/siema.min.js"></script>
+
+<script>
+const mySiema = new Siema({
+  duration: 250,
+  loop: true,
+  onInit: () => document.getElementById("carrusel-siema").style.visibility = "visible"
+});
+
+// listen for keydown event
+setInterval(() => mySiema.next(), 5000);
+
+// extend a Siema class and add addDots() & updateDots() methods
+const mySiemaWithDots = new SiemaWithDots({
+
+  // on init trigger method created above
+  onInit: function(){
+    this.addDots();
+    this.updateDots();
+  },
+
+  // on change trigger method created above
+  onChange: function(){
+    this.updateDots()
+  },
+
+});
+
+</script>
