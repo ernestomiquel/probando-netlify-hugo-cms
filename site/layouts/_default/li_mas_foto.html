@@ -1,12 +1,12 @@
 <a href="{{ .Permalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
 	<div class="flex-ns items-center justify-between mhn2">
-		<div class="">
+		<div class=" w-70-ns ">
 			<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
 			<p class="mid-gray lh-title mb2">{{ .Date.Format "02/01/2006" }}</p>
 			<p class="mb0">{{ .Description }}</p>
 			<p class="link b dib black mb0">Seguir leyendo →</p>
 		</div>
-		<div class="">
+		<div class=" w-30-ns">
 			<img src="{{ .Params.image }}" alt="" style="width: auto; height: auto">
 		</div>
 	</div>
