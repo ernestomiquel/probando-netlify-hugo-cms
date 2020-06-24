@@ -12,6 +12,15 @@ const mySiema = new Siema({
   duration: 250,
   loop: true,
   onInit: () => document.getElementById("carrusel-siema").style.visibility = "visible"
+  function(){
+    this.addDots();
+    this.updateDots();
+  },
+
+  // on change trigger method created above
+  onChange: function(){
+    this.updateDots()
+  },
 });
 
 // listen for keydown event
