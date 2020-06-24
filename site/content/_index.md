@@ -34,6 +34,6 @@ slider:
     link: /muestra_arbiza
   - image: /img/banners/banner_web_donaciones2020.jpg
     alt: vv
-    link: /contacto
+    link: /contact/#donaciones
 
 ---
