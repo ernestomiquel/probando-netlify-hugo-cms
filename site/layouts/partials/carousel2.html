@@ -4,12 +4,6 @@
   {{ end }}
 </div>
 
-<div id="carrusel-siema2" class="siema w-90 mw8 center" style="visibility: hidden">
-  {{ range .slider }}
-  <a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .alt }}"></a>
-  {{ end }}
-</div>
-
 <!-- script javascript para siema-->
 <script src="https://pawelgrzybek.com/siema/assets/siema.min.js"></script>
 
@@ -35,30 +29,5 @@
 
   // Trigger pagination creator
   mySiema.addPagination();
-
-</script>
-
-<script>
-  const mySiema2 = new Siema({
-    duration: 300,
-    loop: true,
-    onInit: () => document.getElementById("carrusel-siema2").style.visibility = "visible"
-  });
-
-  // listen for keydown event
-  setInterval(() => mySiema2.next(), 5000);
-
-  // Add a function that generates pagination to prototype
-  Siema.prototype.addPagination = function() {
-    for (let i = 0; i < this.innerElements.length; i++) {
-      const btn = document.createElement('button');
-      btn.textContent = i+1;
-      btn.addEventListener('click', () => this.goTo(i));
-      this.selector.appendChild(btn);
-    }
-  }
-
-  // Trigger pagination creator
-  mySiema2.addPagination();
 
 </script>
