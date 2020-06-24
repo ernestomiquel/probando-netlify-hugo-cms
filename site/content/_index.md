@@ -1,7 +1,7 @@
 ---
 title:
 subtitle:
-image: 
+image:
 blurb:
   heading: Tenemos ELA
   text: >-
@@ -27,18 +27,13 @@ values:
   image: /img/logo-rojo-circ.jpg
   text: >-
     No sé, quizás se puedan poner otras cosas en este formato de texto de un lado e imagen del otro...
+
 slider:
-  image1:
-    image: /img/banners/banner_web_diaELA2020.jpg
+  - image: /img/banners/banner_web_diaELA2020.jpg
     alt: Dia ELA 2020
-  image2:
-    image: /img/banners/banner_web_donaciones2020.jpg
-    alt: b
-  image3:
-    image: /img/banners/banner_web_donaciones2020.jpg
-    alt: pop
-  image4:
-    image: /img/banners/banner_web_4.jpg
-    alt: e
-    
+    link: /muestra_arbiza
+  - image: /img/banners/banner_web_donaciones2020.jpg
+    alt: vv
+    link: /contacto
+
 ---
