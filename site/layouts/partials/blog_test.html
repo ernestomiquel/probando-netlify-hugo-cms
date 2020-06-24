@@ -1,0 +1,19 @@
+<div class="bg-white pv3">
+	<div class="ph3 w-90 mw8 center">
+
+		<h2 class="f2 b lh-title mb3">Noticias</h2>
+
+		<div class="w-100 flex-ns mhn1-ns flex-wrap">
+			{{ range first 3 (where .Data.Pages "Type" "post") }}
+				<div class="ph1-ns w-100 flex">
+					{{ .Render "li_mas_foto" }}
+				</div>
+			{{ end }}
+		</div>
+
+		<div class="tc mb3">
+			<a href="/post" class="btn raise">Seguir leyendo</a>
+		</div>
+
+	</div>
+</div>
