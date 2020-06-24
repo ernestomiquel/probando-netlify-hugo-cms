@@ -55,8 +55,15 @@ class SiemaWithDots extends Siema {
     duration: 250,
     loop: true,
     onInit: function (){
-      document.getElementById("carrusel-siema").style.visibility = "visible"
+      document.getElementById("carrusel-siema").style.visibility = "visible";
+      // on init trigger method created above
+      this.addDots();
+      this.updateDots();
     }
+    // on change trigger method created above
+     onChange: function(){
+       this.updateDots()
+     },
   });
 
   // listen for keydown event
