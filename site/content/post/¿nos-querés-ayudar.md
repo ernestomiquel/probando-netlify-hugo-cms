@@ -4,7 +4,7 @@ date: 2020-06-28T00:16:36.145Z
 description: >-
   "Cada día hay una nueva montaña para mover y esa es la parte divertida de todo
   este asunto de la vida" nos dice Conrado Arbiza
-image: /img/noticias/bolsa_montaña_conrado-03.jpg
+image: /img/noticias/montaña y cartel.jpg
 ---
 **"Cada día hay una nueva montaña para mover y esa es la parte divertida de todo este asunto de la vida" nos dice Conrado Arbiza**
 
