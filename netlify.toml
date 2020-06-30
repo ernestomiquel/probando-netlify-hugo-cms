@@ -8,7 +8,7 @@
   command = "yarn build-preview"
 
 [[plugins]]
-package = "./index.js"
+package = "netlify-plugin-rss"
   [plugins.inputs]
   # required configs, customize as needed
   dirToScan = "/post" # a subfolder to scan. "/" to scan all
