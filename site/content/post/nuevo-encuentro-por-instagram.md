@@ -1,10 +1,10 @@
 ---
 title: 'Nuevo encuentro por instagram '
-date: 2020-07-07T00:00:00-03:00
+date: 2020-07-07T03:00:00.000Z
 description: |-
   Nuevo Encuentro online este miércoles 8 de julio a las 20.30.
   Los esperamos!
-image: /img/noticias/eventos33.jpg
+image: /img/noticias/eventos3-2.jpg
 ---
 Este miércoles 8 de julio a las 20.30 tendremos otro encuentro online de esta serie que estamos desarrollando. Como en los anteriores se puede acceder en el instagram de @tenemosela.uy.
 
