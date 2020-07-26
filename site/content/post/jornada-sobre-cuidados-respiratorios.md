@@ -13,7 +13,7 @@ Tendremos entre los expositores al Dr Juan Pablo Salisbury, Neumólogo, a la Lic
 
 Es una jornada taller dirigida a pacientes, familiares, amigos, cuidadores. También es abierta a público, especialmente invitamos al personal de la salud involucrado en la asistencia a los pacientes con ELA (médicos, fisioterapeutas, fonoaudiólogos, enfermeros, estudiantes de esas carreras), y alos interesados en el tema.
 
-Requiere inscripción previa llenando el formulario que encontrará en este link.
+Requiere inscripción previa llenando el formulario que encontrará en este [**link**](https://forms.gle/ZhDiZgo9L26yHSXV6).
 
 A quienes se inscriban se les enviará la dirección y las instrucciones para conectarse el día previo a la actividad vía mail. Recomendamos tener instalada la aplicación, ya sea en la computadora, celular u otro dispositivo en forma previa.
 
