@@ -6,7 +6,7 @@ image: /img/noticias/5.jpg
 ---
 En el marco del Día Internacional de la ELA 2021, nuestro primer encuentro será el sábado 19 a las 18 horas, en la jornada sobre proyecto de vida y espiritualidad, destinada a afectados/as por ELA, familiares, cuidadores y toda persona interesada en la temática. 
 
-Para participar es necesario inscribirse aquí
+Para participar es necesario inscribirse [aquí](https://docs.google.com/forms/d/e/1FAIpQLSeFX48dpWL5NfE79OSv6JrgTO75kbckh8OV2BjUyay_roVWRA/viewform?fbclid=IwAR0Z8qLYsYJQFtftlvC_Ttzah4j8LdE1zreyOsF-c83BzjvEUgQZq0n7Sis)
 
 La Dra. Andrea García, Neuróloga, integrante del CELAU y actualmente coordinadora de la Policlínica de ELA del Hospital de Cínicas, tituló su charla "Meditación, Mindfulness y Ciencia", y nos contará sobre la importancia y los beneficios que se han reportado a nivel científico respecto a este tipo de prácticas en personas con enfermedades crónicas, incluyendo la ELA.
 
