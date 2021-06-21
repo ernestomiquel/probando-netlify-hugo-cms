@@ -29,6 +29,9 @@ values:
     No sé, quizás se puedan poner otras cosas en este formato de texto de un lado e imagen del otro...
 
 slider:
+  - image: /img/banners/banner_web_diaELA2021.jpg
+    alt: actividades dia ELA 2021
+    link: 
   - image: /img/banners/banner_web_donaciones2021.jpg
     alt: dona
     link: /contact/#donaciones
