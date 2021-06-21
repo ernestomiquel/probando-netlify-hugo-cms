@@ -32,7 +32,7 @@ slider:
   - image: /img/banners/banner_web_diaELA2020.jpg
     alt: Dia ELA 2020
     link: /muestra_arbiza
-  - image: /img/banners/banner_web_donaciones2020.jpg
+  - image: /img/banners/banner_web_donaciones2021.jpg
     alt: dona
     link: /contact/#donaciones
   - image: /img/banners/banner_web_clinica.jpg
