@@ -35,7 +35,7 @@ slider:
   - image: /img/banners/portada_web_2022_1.png
     alt: dona
     link: /contact/#donaciones
-  - image: /img/banners/banner_web_clinica.jpg
+  - image: /img/banners/banner_web_clinica_corregido.png
     alt: clinica
     link:
 
