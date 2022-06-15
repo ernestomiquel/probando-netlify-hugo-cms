@@ -1,6 +1,6 @@
 ---
 title: Taller para personas con ELA y familias
-date: 2022-06-15T00:00:00-03:00
+date: 2022-06-15T03:00:00.000Z
 description: Los esperamos para esta acvtividad
 image: /img/noticias/posteo taller.png
 ---
@@ -8,4 +8,4 @@ Esta actividad organizada por el equipo de CELAU y Tenemos ELA es dirigida a per
 
 Será de 15 a 17 hs en el Hospital de Clínicas, piso 19
 
-Es importante inscribirse en el siguiente [**formulario de inscripción**](https://forms.gle/Hp4YcF3Z9nBqi3sk7).
+La actividad no tiene costo. Es importante inscribirse en el siguiente [**formulario de inscripción**](https://forms.gle/Hp4YcF3Z9nBqi3sk7). Allí deberán indicar si asistirán en forma presencial o virtual.
