@@ -8,7 +8,7 @@ blurb:
     Fundación Tenemos ELA Uruguay pretende brindar servicios de información,
     atención, apoyo social y legal que colabore con las personas afectadas con
     ELA. Acompañar los procesos médicos para avanzar en los cuidados y
-    tratamientos multidisciplinarios de los pacientes, capacitar al equipo
+    tratamientos multidisciplinarios, capacitar al equipo
     técnico y promover la articulación con los actores sociales y
     gubernamentales del área de la salud.
 intro:

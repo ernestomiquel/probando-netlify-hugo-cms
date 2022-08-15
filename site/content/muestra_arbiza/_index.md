@@ -17,7 +17,7 @@ main:
   description2: 'Las obras están a disposición para ser adquiridas y serán entregadas a partir del 20 de julio. Tienen un tamaño de 30 x 40 cm.
 
 
-  El dinero se volcará al trabajo con pacientes y familias que lleva adelante nuestra organización.'
+  El dinero se volcará al trabajo con las personas con ELA y sus familias que lleva adelante nuestra organización.'
 
 
 cuadros:

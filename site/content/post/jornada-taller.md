@@ -6,9 +6,9 @@ description: >-
   a las 9.30.
 image: /img/noticias/afiche_jornadatela-201906-t.jpg
 ---
-El sábado 1º de junio a las 9.30 en el Hospital de Clínicas, tendremos un taller sobre el "Proceso de adaptación a la ELA". 
+El sábado 1º de junio a las 9.30 en el Hospital de Clínicas, tendremos un taller sobre el "Proceso de adaptación a la ELA".
 
-Es dirigido a pacientes, familiares y cuidadores, pero es abierto a público; invitamos especialmente a aquellos que asisten a los pacientes desde su profesión. 
+Es dirigido a personas con ELA, familiares y cuidadores, pero es abierto a público; invitamos especialmente a aquellos que asisten a los pacientes desde su profesión. 
 
 Aprenderemos y conversaremos sobre la ELA con la Dra. Neuróloga Andrea García y con la Lic. Psic. Ana García-Pérez.
 

@@ -7,11 +7,11 @@ description: >
   plataforma Zoom.
 image: /img/noticias/programa-afiche-juntos _jornadarespiratorio_agosto2020.jpg
 ---
-El próximo sábado 1º de agosto retomamos las jornadas sobre cuidados en la ELA. Esta vez se realizará por vía de la plataforma zoom. 
+El próximo sábado 1º de agosto retomamos las jornadas sobre cuidados en la ELA. Esta vez se realizará por vía de la plataforma zoom.
 
 Tendremos entre los expositores al Dr Juan Pablo Salisbury, Neumólogo, a la Lic. Silvia Guillén, Fisioterapeuta, y a la Dra. Andrea García, Neuróloga.
 
-Es una jornada taller dirigida a pacientes, familiares, amigos, cuidadores. También es abierta a público, especialmente invitamos al personal de la salud involucrado en la asistencia a los pacientes con ELA (médicos, fisioterapeutas, fonoaudiólogos, enfermeros, estudiantes de esas carreras), y alos interesados en el tema.
+Es una jornada taller dirigida a personas con ELA, familiares, amigos, cuidadores. También es abierta a público, especialmente invitamos al personal de la salud involucrado en la asistencia a las personas con ELA (médicos, fisioterapeutas, fonoaudiólogos, enfermeros, estudiantes de esas carreras), y alos interesados en el tema.
 
 Requiere inscripción previa llenando el formulario que encontrará en este [**link**](https://forms.gle/ZhDiZgo9L26yHSXV6).
 

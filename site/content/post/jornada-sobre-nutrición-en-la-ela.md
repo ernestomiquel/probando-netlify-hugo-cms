@@ -9,9 +9,9 @@ description: >-
   y patologías similares y los cuidados en esta área.
 image: /img/noticias/aficheweb.jpg
 ---
-Este sábado 31 de agosto en la mañana estaremos con la Jornada sobre nutrición y deglución, su importancia y los cuidados necesarios. 
+Este sábado 31 de agosto en la mañana estaremos con la Jornada sobre nutrición y deglución, su importancia y los cuidados necesarios.
 
-Está dirigida a pacientes, familiares, cuidadores y todos los interesados.
+Está dirigida a personas con ELA, familiares, cuidadores y todos los interesados.
 
 Deben inscribirse al mail [tenemosela.inscripciones@gmail.com](tenemosela.inscripciones@gmail.com)
 
