@@ -18,7 +18,7 @@ productos:
         texto_seccion: '¡Tenemos Tazas!
 
 
-        Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
+        Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de las personas con ELA y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
 
 
         Precio: $200
@@ -42,7 +42,7 @@ productos:
         texto_seccion: 'Preciosas bolsas con los diseños de Conrado Arbiza Zabaleta.
 
 
-Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los pacientes y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
+Con tu compra nos ayudas a seguir trabajando para mejorar la calidad de vida de los las personas con ELA y empezás la semana con toda la energía, tomando algo calentito y rico en estas divinas tazas.
 
 
 Precio: $250
