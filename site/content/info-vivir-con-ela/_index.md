@@ -1,6 +1,6 @@
 ---
 title: Vivir con ELA
-image: 
+image:
 
 ---
 
@@ -24,9 +24,3 @@ Si tú o algún ser querido, recibió el diagnóstico hace poco, es bueno que se
 La salud, al decir de Pichon Riviere, no es la ausencia de enfermedad sino la adaptación activa al medio. Esto significa que existe una transformación del sujeto y éste modifica el medio por lo tanto se modifica así mismo generando modificaciones y pautas de salud más allá de la enfermedad, generando cambios en la estructura de él mismo, de su familia y en el relacionamiento con otros.
 
 En este sentido, una buena herramienta para el proceso que nos toca vivir, es enfocar la _enfermedad_ como _posibilidad_. Esto permitirá resignificar nuestras vidas y reinventarnos de alguna manera para que encontremos sentido a pesar de la ELA. Desde la organización, pretendemos abrir las puertas en este sentido y promovemos que personas afectadas hace más tiempo aconsejen y transfieran sus conocimientos a los más recientes. Proponemos espacios de escritura para desarrollar por ahí un proceso de re significación, o promovemos las habilidades individuales para que las personas concreten sus sueños, den lugar a sus expectativas y re signifiquen sus experiencias. Los apoyamos para adaptar el medio, generar los cambios en la estructura de la familia y el relacionamiento con los demás, en definitiva; seguir la vida. En la fundación Tenemos ELA elegimos seguir viviendo y bajo la consigna reinventarse es vida, hacemos posible una vida más digna para todos a pesar de la ELA.  
-
-<!--
-**Bibliografía**
-
-Alizade, A (1995). Clínica con la muerte. Editorial Amorrotur. Bs. As. Argentina.
--->
