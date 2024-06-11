@@ -1,10 +1,8 @@
 ---
 title: Beatriz Geloz
-date: 2024-06-10T23:04:00.000Z
-description: "Yo venía con muchos dolores en el alma y creí , inocentemente, que
-  la Vida ya me había dado mi cuota de sufrimiento, cuando de pronto - y me hago
-  eco aquí de estos versos de Miguel Hernández me cayó encima "
-image: img/noticias/test.jpg
+date: 2024-06-10T23:06:00.000Z
+description: Beatriz Geloz
+image: img/noticias/2018_07_05_tazas.jpg
 ---
 Yo venía con muchos dolores en el alma y creí , inocentemente, que la Vida ya me había dado mi cuota de sufrimiento, cuando de pronto - y me hago eco aquí de estos versos de Miguel Hernández me cayó encima " Un manotazo duro, un golpe helado,/ un hachazo invisible y homicida,/ un empujón brutal te ha derribado."- cambió mi vida y la de mi familia para siempre. Fue hace dieciocho años, sin embargo, el neurólogo me había vaticinado que mi fecha de vencimiento sería en el año 2010, más tiempo para entregar mi estuche corporal no habría. ..Para mi bien o para mi mal sí lo hubo. Entonces fui testigo de mi de la desconexión de mi cuerpo pareja y prolijamente fui perdiendo mis fuerzas  : un día no pude mover mi pierna derecha al poco tiempo, la izquierda, contemplaba con pavor la inutilidad de mi cuerpo, la ELA  obsesivamente y con saña me iba obligando a renunciar : perdí el trabajo cuando tenía aún tanto para dar, perdí la intimidad con mi propio cuerpo, perdí el abuelazgo efectivo y real de mis nietos- creo que eso fue lo más doloroso- y finalmente , por ahora, hace un año que me tuve que ir de mi casa a vivir en un Residencial. Como mi ELA me cocina a fuego lento, mi cuidador principal, mi esposo, fue envejeciendo conmigo y se enfermó de cuidado. Eso es este monstruo: un proceso en que el duelo es la constante. ¿Dónde queda la recreación , el tiempo para pasear, salir, ver gente? No existe, ya que desplazarse implica gastos: vehículo, asistentes y nosotros tenemos gastos enormes para simplemente sobrevivir. Por suerte  participo del taller literario del profesor Federico Arregui, actividad muy placentera que realizo por zoom, aunque más me gustaría la modalidad presencial. Imposible por el complicado andamiaje.
 
