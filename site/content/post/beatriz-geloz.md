@@ -1,6 +1,6 @@
 ---
 title: Beatriz Geloz
-date: 2024-06-10T22:58:00.000Z
+date: 2024-06-10T23:04:00.000Z
 description: "Yo venía con muchos dolores en el alma y creí , inocentemente, que
   la Vida ya me había dado mi cuota de sufrimiento, cuando de pronto - y me hago
   eco aquí de estos versos de Miguel Hernández me cayó encima "
